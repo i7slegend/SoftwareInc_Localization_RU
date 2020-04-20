@@ -47,43 +47,43 @@ Tutorial
 Кликните правой копкой мыши по Вашей новой комнате и выберите кнопку {H:Сменить команду}, которая напоминает кружок со стрелками. Появится окно, нажмите на {H:Core} чтобы назначить комнату данной команде.
 
 Не забывайте назначать сотрудникам команды. Вы можете сделать это, нажав {KeyBind:ContextMenu} при выборе сотрудника, а затем выбрав {H:Сменить команду}, из окна сотрудников или в окне найма."
-    ALPHAWORK1            "You need to reach the implementation phase of development before the tutorial can continue"
-    ALPHAWORK2            "Your project has now been promoted to implementation.
+    ALPHAWORK1            "Вы должны пройти этап разработки, прежде чем двигаться дальше."
+    ALPHAWORK2            "Ваш проект переведен на реализацию.
 
-The implementation phase has two stages:
-	•{H:Alpha}: in which developers and artists create the product according to the design specifications and requirements.
-	•{H:Beta}: in which bugs are uncovered by your programmers and hopefully fixed before the final release."
-    ALPHAWORK3            "You will see the progress bar fill as your employees work on the project and you can hover over the task to get a detailed breakdown of progress on each area of the implementation.
+Этап реализации состоит из двух шагов:
+	•{H:Alpha}: в которой разработчики и художники создают продукт в соответствии с проектными спецификациями и требованиями.
+	•{H:Beta}: в котором ваши программисты обнаруживают ошибки и исправляются до окончательного релиза."
+    ALPHAWORK3            "Вы увидите, как заполняется индикатор выполнения, когда ваши сотрудники работают над проектом, и вы можете навести курсор мыши на задачу, чтобы получить подробную информацию.
 		
-Progress tells nothing of the actual quality of the project, however. To get an idea of how good your employees' work is, you need to do a peer review. Start by pressing the review button."
-    ALPHAWORK7            "Make sure you do a press release during the implementation phase, as you hopefully did during the design phase.
+Однако прогресс ничего не говорит о реальном качестве проекта. Чтобы получить представление о том, насколько хороша работа ваших сотрудников, вам необходимо провести экспертную оценку. Начните с нажатия кнопки Обзор."
+    ALPHAWORK7            "Убедитесь, что вы сделали \"Пресс-релиз\" на этапе реализации, как вы надеюсь сделали на этапе разработки.
 
-During the implementation phase you also have the option to send out a press build, so the press can try your software. Press builds require no work on your part, but make sure you have good ratings in your peer reviews and some followers before you send one out.
+На этапе внедрения у вас также есть возможность отправить продукт для прессы, чтобы они могли опробовать ваше программное обеспечение. Продукт не требуют никакой работы с вашей стороны, но убедитесь, что у вас есть хорошие оценки в ваших рецензиях, прежде чем отправлять.
 
-The tutorial will continue once you send out a press build. Take all the time you need."
-    ALPHAWORK8            "Press the Promote button to move on to the beta phase when you are ready."
-    ALPHAWORK9            "The beta phase is theoretically endless, but you'll have to release your project at some point, especially if you've already announced a release date.
+Обучение будет продолжено, как только вы отправите \"Пресс-релиз\"."
+    ALPHAWORK8            "Нажмите кнопку \"Сл. этап\", чтобы перейти к бета-фазе, когда вы будете готовы."
+    ALPHAWORK9            "Бета-фаза теоретически бесконечна, но в какой-то момент вам придется выпустить свой проект, особенно если вы уже объявили дату выпуска.
 
-It's a good idea to fix as many bugs as possible, as buggy products will lead to refunds, but don't aim to fix every possible bug in your product. When your product is released you'll be able to fix more bugs, as your customers get in contact with your support team.
+Это хорошая идея, чтобы исправить как можно больше ошибок, так как продукты с ошибками приведут к возврату денег, но не стремитесь исправить все возможные ошибки в вашем продукте. Когда ваш продукт будет выпущен, вы сможете исправить больше ошибок, так как ваши клиенты свяжутся с вашей службой поддержки.
 
-It's important to note that the amount of bugs an employee can fix depends on the most skilled programmer on their team. So your employees might not be able to fix all bugs and one team might stop fixing bugs while a second team carries on."
-    ALPHAWORK10           "Press the release button when you're ready.
+Важно отметить, что количество ошибок, которые может исправить сотрудник, зависит от самого опытного программиста в их команде. Таким образом, ваши сотрудники могут быть не в состоянии исправить все ошибки, и одна команда может прекратить исправлять ошибки, пока вторая команда продолжает работу."
+    ALPHAWORK10           "Когда будете готовы, нажмите кнопку \"Релиз\".
 		
-When you release your product you'll have to buy or print physical copies of it to sell. Later on, online software distribution will become more popular, but it is very important to have physical copies of your product before and during the 90s.
+Когда вы выпустите свой продукт, вам придется купить или распечатать его копии для продажи. Позже распространение программного обеспечения в Интернете станет более популярным, но очень важно иметь физические копии вашего продукта до и в течение 90-х годов.
 		
-You can either print physical copies yourself or order some for immediate distribution at a higher price. The game will remind you of this when you release a product."
-    BENEFITS1             "Start by opening the benefit window"
-    BENEFITS2             "Employee benefits will passively increase employee satisfaction for all your employees, which can be very helpful if you want to lower their salaries or make sure they don't just quit when they get bored.
+Вы можете распечатать физические копии самостоятельно или заказать их для немедленного распространения по более высокой цене. Игра напомнит вам об этом, когда вы выпустите продукт."
+    BENEFITS1             "Начните с открытия окна \"Льготы\"."
+    BENEFITS2             "Выплаты сотрудникам будут пассивно повышать удовлетворенность сотрудников, что может быть очень полезно, если вы хотите снизить их зарплату или убедиться, что они не уйдут, когда им надоест.
 
-Some employee benefits can have a huge and immediate financial impact, while others might result in large satisfaction increases without having any immediate consequences.
+Некоторые выплаты работникам могут иметь огромное и немедленное финансовое воздействие, в то время как другие могут привести к значительному увеличению удовлетворенности без каких-либо непосредственных последствий.
 
-You can safely play with the sliders and see their impact since changes aren't put in effect until you hit Apply.
+Вы можете спокойно играть с ползунками, поскольку изменения не вступают в силу, пока вы не нажмете Применить.
 
-Press continue to advance the tutorial."
-    BENEFITS3             "If you check the checkbox next to a benefit and hit Apply, any employee with custom benefits will have it reset to the company default.
+Нажмите кнопку Продолжить, чтобы продолжить обучение."
+    BENEFITS3             "Если вы установите флажок рядом с пособием и нажмете применить, любой сотрудник с настраиваемыми льготами, будет сброшен до значения по умолчанию компании.
 		
-You can change benefits for employees individually in the employee overview window. Try opening it now, select one or more employees and click \"Change benefits\"."
-    BENEFITS4             "To override a company benefit for individual employees, you need to check the checkbox next to the benefit."
+Вы можете изменить льготы для сотрудников по отдельности в окне обзор сотрудников. Попробуйте открыть его сейчас, выберите одного или нескольких сотрудников и нажмите \"Изменить льготы\"."
+    BENEFITS4             "Чтобы переопределить льготу компании для отдельных сотрудников, необходимо установить флажок рядом с ней."
     BUILDMODE1            "Начните с нажатия кнопки «Режим строительства», чтобы войти в {H:Build mode}."
     BUILDMODE2            "Игра всегда приостанавливается в режиме строительства.
 
@@ -121,30 +121,30 @@ You can change benefits for employees individually in the employee overview wind
 
 Когда Вы будете готовы продолжить, выйдите из режима строительства."
     BUILDMODE18           "Когда Вы будете готовы, откройте окно сотрудников, чтобы начать управлять своими сотрудниками."
-    CONTRACTS1            "Start by opening the contract window."
-    CONTRACTS2            "This is a list of available contracts. New contracts will be added as older ones are completed.
+    CONTRACTS1            "Начните с открытия окна Контракт."
+    CONTRACTS2            "Это список доступных контрактов. Новые контракты будут добавлены по мере завершения старых.
 
-Contracts have an upfront payment you will receive for accepting the work, and a bigger payment for completing it. You complete a contract by delivering a product with the requested progress and quality.
+В контрактах есть авансовый платеж, который вы получите за принятие работы, и более крупный платеж за ее выполнение. Вы завершаете контракт, поставляя продукт с требуемым прогрессом и качеством.
 
-Try selecting a contract in the list now."
-    CONTRACTS3            "The final payout will be subtracted from, for not completing the contract, for not completing it on time and for any unfixed bugs.
+Попробуйте выбрать контракт в списке прямо сейчас."
+    CONTRACTS3            "Окончательная выплата будет вычтена из суммы за невыполнение контракта, не выполнили его вовремя или не исправили ошибки.
 
-Not living up to the clients quality expectations will impact your business reputation, but not your payout.
+Если вы не оправдаете ожиданий клиентов по качеству, это повлияет на вашу деловую репутацию, но не на ваши выплаты.
 
-Browse the contracts now and accept one that sounds good to you."
-    CONTRACTS5            "Until an employee actually starts working on the contract, the deadline will not count down.
+Просмотрите контракты сейчас и выберете тот, который кажется вам хорошим."
+    CONTRACTS5            "Пока сотрудник фактически не начнет работать над контрактом, срок не будет отсчитываться.
 
-The tutorial will continue once you move to the next phase of development."
-    CONTRACTS6            "When the progressbar reaches the blue line you have lived up to the contract's progress requiements. However, you still need to meet their quality requirements, if you want to increase your business reputation and receive better contracts.
+Обучение будет продолжено, как только вы перейдете к следующему этапу разработки."
+    CONTRACTS6            "Когда индикатор выполнения достигает синей линии, вы выполнили требования по контракту. Однако вам все равно нужно соответствовать их требованиям к качеству, если вы хотите повысить свою деловую репутацию и получить более качественные контракты.
 
 Make sure you do a client review before you move on to the bug fixing stage, to make sure you meet their quality requirements.
 
-The tutorial will continue once you start a review."
-    CONTRACTS10           "When you are ready, let's move on to the bug fixing stage.
+Обучение продолжится как только вы нажмете кнопку \"Обзор\"."
+    CONTRACTS10           "Когда вы будете готовы, давайте перейдем к этапу исправления ошибок.
 
-It's impossible to know exactly how many bugs a piece of software has, so just try to fix as many as you can before time runs out.
+Невозможно точно знать, сколько ошибок есть в программном обеспечении, поэтому просто постарайтесь исправить их как можно больше до истечения времени.
 
-Finish your contract work to end the tutorial."
+Завершите работу над контрактом, чтобы закончить обучение."
     CUSTOMMAP1            "This tutorial assumes you've already tried build mode and will focus on how the map editor differs.
 		
 Click Continue if you're ready to advance."
