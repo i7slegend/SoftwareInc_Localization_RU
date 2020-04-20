@@ -639,15 +639,15 @@ Software
     Features
         [
         Feature { 2Dart "2D оформление" }
-        Feature { Userinterfacegraphics "Графика пользовательского интерфейса" }
-        Feature { Conceptart "Концептуальные изображения" }
+        Feature { Userinterfacegraphics "Графика польз. интерфейса" }
+        Feature { Conceptart "Концепт-арт" }
         Feature { Soundeffects "Звуковые эффекты" }
         Feature { Music "Музыка" }
         Feature { WrittenDialogue "Написанные диалоги" }
         Feature { 3Dmodels "3D модели" }
         Feature { Textures "Текстуры" }
         Feature { Environments "Окружение" }
-        Feature { Riggingandanimation "Такелаж и анимация" }
+        Feature { Riggingandanimation "Скелет и анимация" }
         ]
     }
 
