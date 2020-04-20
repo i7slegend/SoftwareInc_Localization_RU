@@ -638,15 +638,15 @@ Software
     GameAssets "Игровая библиотека"
     Features
         [
-        Feature { 2Dart "2D-изображения" }
+        Feature { 2Dart "2D оформление" }
         Feature { Userinterfacegraphics "Графика пользовательского интерфейса" }
         Feature { Conceptart "Концептуальные изображения" }
         Feature { Soundeffects "Звуковые эффекты" }
         Feature { Music "Музыка" }
-        Feature { WrittenDialogue "Письменный диалог" }
+        Feature { WrittenDialogue "Написанные диалоги" }
         Feature { 3Dmodels "3D модели" }
         Feature { Textures "Текстуры" }
-        Feature { Environments "Среды" }
+        Feature { Environments "Окружение" }
         Feature { Riggingandanimation "Такелаж и анимация" }
         ]
     }
@@ -660,7 +660,7 @@ Software
         Feature { Thermostat "Термостат" }
         Feature { Camera "Камера" }
         Feature { Speaker "Динамик" }
-        Feature { Motor "Мотор" }
+        Feature { Motor "Двигатель" }
         Feature { Display "Экран" }
         Feature { GPS "GPS" }
         Feature { Hardwareinterface "Аппаратный интерфейс" }
