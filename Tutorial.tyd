@@ -51,9 +51,9 @@ Tutorial
     ALPHAWORK2            "Ваш проект переведен на реализацию.
 
 Этап реализации состоит из двух шагов:
-	•{H:Alpha}: в которой разработчики и художники создают продукт в соответствии с проектными спецификациями и требованиями.
-	•{H:Beta}: в котором ваши программисты обнаруживают ошибки и исправляются до окончательного релиза."
-    ALPHAWORK3            "Вы увидите, как заполняется индикатор выполнения, когда ваши сотрудники работают над проектом, и вы можете навести курсор мыши на задачу, чтобы получить подробную информацию.
+	•{H:Alpha}: рразработчики и художники создают продукт в соответствии с проектными требованиями.
+	•{H:Beta}: программисты обнаруживают ошибки и исправляют их до окончательного релиза."
+    ALPHAWORK3            "Вы увидите, как заполняется индикатор выполнения, когда ваши сотрудники работают над проектом, вы можете навести курсор мыши на задачу, чтобы получить подробную информацию.
 		
 Однако прогресс ничего не говорит о реальном качестве проекта. Чтобы получить представление о том, насколько хороша работа ваших сотрудников, вам необходимо провести экспертную оценку. Начните с нажатия кнопки Обзор."
     ALPHAWORK7            "Убедитесь, что вы сделали \"Пресс-релиз\" на этапе реализации, как вы надеюсь сделали на этапе разработки.
@@ -64,7 +64,7 @@ Tutorial
     ALPHAWORK8            "Нажмите кнопку \"Сл. этап\", чтобы перейти к бета-фазе, когда вы будете готовы."
     ALPHAWORK9            "Бета-фаза теоретически бесконечна, но в какой-то момент вам придется выпустить свой проект, особенно если вы уже объявили дату выпуска.
 
-Это хорошая идея, чтобы исправить как можно больше ошибок, так как продукты с ошибками приведут к возврату денег, но не стремитесь исправить все возможные ошибки в вашем продукте. Когда ваш продукт будет выпущен, вы сможете исправить больше ошибок, так как ваши клиенты свяжутся с вашей службой поддержки.
+Рекомендуется исправить как можно больше ошибок, так как глючные продукты приведут к возвратам. Когда ваш продукт будет выпущен, вы сможете исправить больше ошибок, так как ваши клиенты свяжутся с вашей службой поддержки.
 
 Важно отметить, что количество ошибок, которые может исправить сотрудник, зависит от самого опытного программиста в их команде. Таким образом, ваши сотрудники могут быть не в состоянии исправить все ошибки, и одна команда может прекратить исправлять ошибки, пока вторая команда продолжает работу."
     ALPHAWORK10           "Когда будете готовы, нажмите кнопку \"Релиз\".
@@ -209,70 +209,70 @@ Make sure you do a client review before you move on to the bug fixing stage, to 
     CUSTOMIZATION17       "Вы можете использовать эти кнопки, чтобы выбрать, хотите ли вы арендовать или купить пустой участок.
 
 Строительство стоит очень дорого, поэтому рекомендуется начинать с аренды. Вы можете переехать со своей компанией в процессе игры."
-    DESIGNDOCUMENT1       "Start the tutorial by pressing the \"Develop software\" button to bring up the design document."
-    DESIGNDOCUMENT2       "Welcome to the design document, the heart of Software Inc. This is where you decide what kind of software you want to make.
+    DESIGNDOCUMENT1       "Запустите учебное пособие, нажав кнопку \"Разработка ПО\", чтобы открыть окно проектирования."
+    DESIGNDOCUMENT2       "Добро пожаловать в окно проектирования, сердце Software Inc. Здесь вы решаете, какое программное обеспечение вы хотите сделать.
 
-Start by picking a software type.
+Начните с выбора типа программного обеспечения.
 
-Click continue to to advance the tutorial."
-    DESIGNDOCUMENT3       "If applicable, you can pick a software category. Each category for a software type has different development times, popularity, audience retention, features and its own target audience."
-    DESIGNDOCUMENT4       "Then pick a name. You can either write one yourself or press the \"Name:\" button to have it generated."
-    DESIGNDOCUMENT5       "You can also pick a price. If you leave the price field alone, the best price will be picked based on the software and features you've chosen. You can click the Price button to reset the price."
-    DESIGNDOCUMENT6       "You can pick your target audience using the triangle.
+Нажмите кнопку Продолжить, чтобы продолжить обучение."
+    DESIGNDOCUMENT3       "Если это применимо, вы можете выбрать категорию программного обеспечения. Каждая категория для типа программного обеспечения отличается разным временем разработки, популярностью, удержанием аудитории, функциями и собственной целевой аудиторией."
+    DESIGNDOCUMENT4       "Теперь выберите имя продукта. Вы можете написать его сами или нажать кнопку \"Имя:\", чтобы оно была сгенерирована."
+    DESIGNDOCUMENT5       "Вы также можете выбрать цену. Если вы не тронете поле цены, лучшая цена будет выбрана на основе программного обеспечения и функций, которые вы выбрали. Вы можете нажать кнопку \"Цена\", чтобы сбросить цену."
+    DESIGNDOCUMENT6       "Вы можете выбрать свою целевую аудиторию, используя треугольник.
 			
 You can either:
 	•Pick a balance you like
 	•Check what your competition has picked to carve out a niche
 	•Pick according to your chosen software category
 	•Leave it in the center to target all submarkets equally"
-    DESIGNDOCUMENT7       "Finally, you must decide whether you want to get down into the details with your software design or just let the game pick features and dependencies, based on your choices on this page.
+    DESIGNDOCUMENT7       "Наконец, вы должны решить, хотите ли вы углубиться в детали разработки вашего программного обеспечения или просто позволить игре выбрать функции и зависимости, основываясь на вашем выборе этой страницы.
 			
-You can auto-fill the rest of the design document by clicking the {H:Generate design} button, or you can click on the {H:Next page} button to see the rest of what the design document has to offer.
+Вы можете автоматически заполнить остальную часть проектного документа, нажав кнопку {H:Generate design}, или вы можете нажать на кнопку {H:Next page} чтобы увидеть остальное, что может предложить проектная документация.
 
-For now, let's move on to get an overview of all your options in the design document."
-    DESIGNDOCUMENT8       "Let's look at the features you can pick for your product. Each feature takes time to develop and satisfies each submarket to different degrees.
+А пока давайте перейдем к обзору всех ваших вариантов в проектной документации."
+    DESIGNDOCUMENT8       "Давайте рассмотрим функции, которые вы можете выбрать для своего продукта. Каждая функция требует времени для развития и удовлетворяет каждый субрынок в разной степени.
 
-Software is divided up into specializations, like 2D, 3D, System, etc. Each specialization is shown as a container in the feature panel and each container has a list of extra features you can add. The extra features require that your employees have the right amount of \"stars\" for the specialization they belong to.
+Программное обеспечение делится на специализации, такие как 2D, 3D, Системы и т.д. Каждая специализация отображается в виде контейнера на панели функций, и каждый контейнер содержит список дополнительных функций, которые вы можете добавить. Дополнительные функции требуют, чтобы ваши сотрудники имели нужное количество \"звезд\" для той специализации, к которой они относятся.
 
-Features that are highlighted in red are unavailable because you don't have any employees in your selected development teams that have the required amount of stars."
+Функции, выделенные красным цветом, недоступны, поскольку в выбранных вами командах разработчиков нет сотрудников с требуемым количеством звездочек."
     DESIGNDOCUMENT9       "1 star features are simple features that help satisfy your chosen target audience
 
 2 star features are far more effective at satisfying your target audiences than 1 star features, as you'll get more value for the time spent developing them
 
 3 star features don't satisfy your target audience, but instead modify your software in some way"
-    DESIGNDOCUMENT10      "As you may have noticed, each main feature has a tech level associated with it. Tech levels can be researched by you or other companies from year to year.
+    DESIGNDOCUMENT10      "Как вы, возможно, заметили, каждая основная функция имеет технический уровень. Технические уровни могут быть исследованы вами или другими компаниями из года в год.
 
-Sticking to the latest tech level will increase your target audience satisfaction and the marketability of your product, but increase development time and possible research and license costs associated with its development.
+Следование последнему технологическому уровню повысит удовлетворенность вашей целевой аудитории и конкурентоспособность вашего продукта, но увеличит время разработки и возможные затраты на исследования и лицензии, связанные с его разработкой.
 
-It's worth noting that the maximum tech level is limited by the operating systems and tools you decide to use for development."
-    DESIGNDOCUMENT11      "Let's check out the {H:Basic information} page."
-    DESIGNDOCUMENT12      "You can make your software a sequel to a product you made previously or which you bought from another company. You do this by clicking the {H:Original IP} button and selecting a product.
+Стоит отметить, что максимальный технический уровень ограничен операционными системами и инструментами, которые вы решите использовать для разработки."
+    DESIGNDOCUMENT11      "Давайте проверим страницу {H:Basic information}."
+    DESIGNDOCUMENT12      "Вы можете сделать свое программное обеспечение продолжением продукта, который вы сделали ранее или который вы купили у другой компании. Для этого необходимо нажать кнопку {H:Original IP} и выбрать продукт.
 
-Making a sequel will give a marketing boost and change your fans' expectations depending on the success of its predecessors.
+Создание сиквела даст маркетинговый импульс и изменит ожидания ваших поклонников в зависимости от успеха его предшественников.
 
-Features that were implemented in the predecessor product will be highlighted in orange in the feature panel, as these features will be developed faster than normal."
-    DESIGNDOCUMENT13      "You can use or create a framework when developing software. Frameworks speed up development, but lock down the maximum tech levels of your features.
+Функции, которые были реализованы в предыдущем продукте, будут выделены оранжевым цветом на панели функций, так как эти функции будут разрабатываться быстрее, чем обычно."
+    DESIGNDOCUMENT13      "Вы можете использовать или создавать фреймворк при разработке программного обеспечения. Фреймворки ускоряют разработку, но блокируют максимальный технологический уровень ваших функций.
 
-Using a framework made by another company will require you pay a license fee from your profits.
+Использование фреймворка, созданного другой компанией, потребует от вас уплаты лицензионного сбора из вашей прибыли.
 
-If you decide to create a new framework, it will extend development slightly, but the new framework can be licensed out to other companies to make some extra money on the side."
-    DESIGNDOCUMENT14      "Let's check out the {H:Dependencies} page."
-    DESIGNDOCUMENT15      "Your product can depend on other software types. As an example, you will need a 2D Editor to make a game with 2D graphics, otherwise your artists wouldn't be able to create the graphical assets needed.
+Если вы решите создать новый фреймворк, он немного расширит разработку, но новый фреймворк может быть лицензирован другими компаниями, чтобы заработать дополнительные деньги."
+    DESIGNDOCUMENT14      "Давайте перейдем на страницу {H:Dependencies}."
+    DESIGNDOCUMENT15      "Ваш продукт может зависеть от других типов программного обеспечения. Например, вам понадобится 2D-редактор, чтобы создать игру с 2D-графикой, иначе ваши художники не смогут создать необходимые графические ресурсы.
 			
-Furthermore, most software also needs to run on one or more operating systems. It would be wise to pick popular operating systems to support, as they will limit your audience size. But beware that each operating system you decide to support will extend development time.
+Кроме того, большинство программ также должны работать на одной или нескольких операционных системах. Было бы разумно выбрать популярные операционные системы для поддержки, так как они ограничат размер вашей аудитории. Но имейте в виду, что каждая операционная система, которую вы решите поддерживать, продлит время разработки.
 
-You can port your software to other operating systems after it has been released, if you so desire."
-    DESIGNDOCUMENT16      "Finally, let's check out the {H:Summary} page."
-    DESIGNDOCUMENT17      "If you're worried about how to pay your developers, how many physical copies you'll have to order or how much effort to put into your marketing campaign, you can sign up with a publisher and they will handle these details, if you agree to pay royalties off your product's profits."
-    DESIGNDOCUMENT18      "Before you finish, make sure you inspect the information in this box. This outlines everything you need to develop this product.
+При желании вы можете перенести свое программное обеспечение на другие операционные системы после его выпуска."
+    DESIGNDOCUMENT16      "Давайте перейдем на страницу {H:Summary}."
+    DESIGNDOCUMENT17      "Если вы беспокоитесь о том, как платить вашим разработчикам, сколько физических копий вам придется заказать или сколько усилий вложить в вашу маркетинговую кампанию, вы можете найти издателя, и они будут обрабатывать эти детали, если вы согласитесь выплачивать отчисления из прибыли вашего продукта."
+    DESIGNDOCUMENT18      "Прежде чем закончить, обязательно ознакомьтесь с информацией в этом поле. Здесь изложено все, что вам нужно для разработки этого продукта.
 
-Having more than the suggested amount of employees on the development teams will result in diminishing returns, so you're paying more in salaries, but getting a smaller and smaller speed increase in return."
-    DESIGNDOCUMENT19      "After you've went through the phases of development and you're ready to release your product, remember to see if any popular products have just been released in the same software category as yours.
+Наличие более чем рекомендованного количества сотрудников в командах разработчиков приведет к уменьшению прибыли, так что вы платите больше по зарплате, но получаете меньшую и меньшую прибавку в скорости."
+    DESIGNDOCUMENT19      "После того как вы пройдете все этапы разработки и будете готовы выпустить свой продукт, не забудьте посмотреть, выпускались ли какие-либо популярные продукты в той же категории программного обеспечения, что и у вас.
 
-You can also check out upcoming releases from your competitors to make sure a large company won't outshine your product.
+Вы также можете проверить предстоящие релизы от ваших конкурентов, чтобы убедиться, что крупная компания не затмит ваш продукт.
 
-Timing is everything when you're just starting out!"
-    DESIGNDOCUMENT20      "Click the develop button when you're ready to begin development."
+Сроки это все, когда вы только начинаете!"
+    DESIGNDOCUMENT20      "Нажмите кнопку далее, когда будете готовы начать разработку."
     DESIGNWORK1           "You need to start a new project before the tutorial can continue"
     DESIGNWORK3           "While you work on your design document, you should start telling the world about your new project. Start by announcing a release date by pressing the Market button.
 
