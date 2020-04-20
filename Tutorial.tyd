@@ -145,70 +145,70 @@ Make sure you do a client review before you move on to the bug fixing stage, to 
 Невозможно точно знать, сколько ошибок есть в программном обеспечении, поэтому просто постарайтесь исправить их как можно больше до истечения времени.
 
 Завершите работу над контрактом, чтобы закончить обучение."
-    CUSTOMMAP1            "This tutorial assumes you've already tried build mode and will focus on how the map editor differs.
+    CUSTOMMAP1            "В этом обучении предполагается, что Вы уже успели попробовать режим строительства и будете сосредоточены на нововведениях.
 		
-Click Continue if you're ready to advance."
-    CUSTOMMAP2            "The map editor gives you the ability to make a building that you'll be able to lease into when you relocate or make a new company. The map editor does not have the ability to edit normal {H:for sale} buildings.
+Нажмите «Продолжить», когда будете готовы."
+    CUSTOMMAP2            "Редактор карт дает вам возможность построить здание, которое вы сможете сдавать в аренду при переезде или создании новой компании. Редактор карт не имеет возможности редактировать обычные {H:for sale} здания.
 
-In the map editor, you have an unlimited supply of money and the ability to place environment objects. Try opening the environment tab now."
-    CUSTOMMAP3            "You can hover over the different types of environment objects to get more details.
+В редакторе карт у вас есть неограниченный запас денег и возможность размещать объекты окружающей среды. Попробуйте открыть вкладку \"Окружающая среда\"."
+    CUSTOMMAP3            "Вы можете навести курсор мыши на различные типы объектов окружающей среды, чтобы получить более подробную информацию.
 
-Another important aspect of rentable buildings is that you can provide some amenities for the tenant and you have to provide heating and cooling.
-Make sure you place enough heating and cooling for the entire building. The tenant will not be able to interact with any furniture you place in the map editor.
+Другим важным аспектом арендуемых зданий является то, что вы можете предоставить арендатору некоторые удобства, а также обеспечить отопление и охлаждение.
+Убедитесь, что вы разместили достаточно отопления и охлаждения для всего здания. Арендатор не сможет взаимодействовать с мебелью, которую вы разместите в редакторе карт.
 
-Try building a room now."
-    CUSTOMMAP4            "When you select your room and open the context menu, you'll notice a couple of new options, namely the ability to group rooms, mark them for renting and mark them as player owned rooms.
+А теперь попробуйте создать комнату."
+    CUSTOMMAP4            "Когда вы выберете свою комнату и откроете контекстное меню, вы заметите несколько новых пунктов, а именно возможность группировать комнаты, помечать их для аренды и помечать как комнаты принадлежащие игроку.
 
-When you group rooms together, they can only be leased as one single unit. Cloning rooms will carry over the same grouping style, so you can build a layout and quickly duplicate it.
+Когда вы группируете комнаты вместе, их можно арендовать только как одно целое. Дублированные комнаты будут сгруппированы одинаково, поэтому вы можете создать макет и быстро продублировать его.
 
-There is a data overlay which allows you to see how rooms have been marked. Enable it now to end the tutorial."
-    CUSTOMIZATION1        "Welcome to the customization screen. Press {H:Continue} to advance the tutorial or {H:Cancel} to exit."
-    CUSTOMIZATION2        "Begin by picking a name for your company."
-    CUSTOMIZATION3        "Then pick a name for your founder in the game."
-    CUSTOMIZATION4        "And a gender.
+Существует оверлей данных, который позволяет Вам увидеть как комнаты были отмечены. Теперь включите его, чтобы закончить обучение."
+    CUSTOMIZATION1        "Добро пожаловать на экран персонализации. Нажмите {H:Continue} чтобы перейти к руководству или {H:Cancel} чтобы выйти."
+    CUSTOMIZATION2        "Начните с выбора имени для своей компании."
+    CUSTOMIZATION3        "Затем выберите имя для своего персонажа."
+    CUSTOMIZATION4        "Не забудьте про пол.
 
-You can toggle genders multiple times to randomize your founder's look."
-    CUSTOMIZATION5        "You can use these buttons to choose an aspect of your founder's appearance that you want to change.
+Вы можете несколько раз переключить пол, чтобы изменить внешний вид вашего основателя случайным образом."
+    CUSTOMIZATION5        "Вы можете использовать эти кнопки для выбора аспекта внешнего вида вашего персонажа.
 	
-You can change the shape of the face and eyebrows by clicking the first button, and the last button allows you to pick the colors of the skin, hair, accessories and clothes of your founder."
-    CUSTOMIZATION6        "Here you can pick your founder's personality traits.
+Вы можете изменить форму лица и бровей, нажав на первую кнопку, а последняя кнопка позволяет выбрать цвета кожи, волос, аксессуаров и одежды вашего персонажа."
+    CUSTOMIZATION6        "Здесь вы можете выбрать черты характера вашего основателя.
 
-You can choose two traits, which will affect your founder's behavior, listed below, and inter-office relationships."
-    CUSTOMIZATION7        "Here you can pick your founder's skill points which will affect the performance of your founder.
+Вы можете выбрать две черты, которые повлияют на поведение вашего персонажа и взаимоотношения между сотрудниками."
+    CUSTOMIZATION7        "Здесь вы можете выбрать очки навыков вашего основателя, которые повлияют на производительность вашего основателя.
 
-Skills are balanced and the maximum amount of skill you can assign to begin with depends on the difficulty you choose."
-    CUSTOMIZATION8        "You can change your employees specialization points by clicking the highlighted stars down here.
+Навыки сбалансированы, и максимальное количество навыков, которое вы можете назначить для начала, зависит от сложности, которую вы выберете."
+    CUSTOMIZATION8        "Вы можете изменить свои очки специализации, нажав на выделенные звезды здесь.
 			
-Specialization levels control which tasks your employee can complete. Remember to check the other roles by using the dropdown.
+Уровни специализации определяют, какие задачи может выполнять ваш сотрудник. Не забудьте проверить другие роли с помощью раскрывающегося списка.
 
-Clicking the {H:Random} button will pick random specialization levels for the points you have left.
+Нажав на {H:Random} кнопку, будут выбраны случайные уровни специализации для оставшихся у вас очков.
 
-You can further educate and train your founder to gain skill and specializations in the game."
-    CUSTOMIZATION9        "You are now done customizing your founder. Let's begin choosing the rules of the game!"
-    CUSTOMIZATION10       "You can enable any mods here, which will be bound to the game forever.
+Вы можете дополнительно обучать и тренировать своего основателя, чтобы получить навыки и специализации в игре."
+    CUSTOMIZATION9        "Вы закончили настройку своего основателя. Давайте начнем выбирать настройки игры!"
+    CUSTOMIZATION10       "Здесь вы можете включить любые моды, которые будут привязаны к данному файлу сохранения.
 
-You won't be able to enable or disable mods after your game has started, as they fundamentally alter how the game is played, but you can share your save game with others, without having to install the mods again."
-    CUSTOMIZATION11       "Pick how much money you want to start with. You start with {StartingFunds} by default, any additional funds will be taken as loans.
+После запуска игры вы не сможете включать или отключать моды, так как они в корне изменяют ход игры, но вы можете поделиться своей сохраненной игрой с другими, не устанавливая моды заново."
+    CUSTOMIZATION11       "Выберите, с какой суммы вы хотите начать. Вы начинаете с {StartingFunds} по умолчанию, любые дополнительные средства будут взяты в качестве кредита.
 
-Note that you need at least {StartingPlot} if you would rather purchase an empty plot, than lease rooms in a building."
-    CUSTOMIZATION12       "You can change what year you want to start in here.
+Обратите внимание, что вам нужно не менее {StartingPlot} если вы предпочитаете приобрести пустой участок, а не арендовать комнаты в здании."
+    CUSTOMIZATION12       "Вы можете изменить, в каком году вы хотите начать здесь.
 		
-Starting later will give you the full power of modern tech and digital distribution, but your competitors will be more established."
-    CUSTOMIZATION13       "Difficulty can be changed at any point in the game by going to the options menu.
+Если вы начнете позже, вы получите всю мощь современных технологий и цифровой дистрибуции, но ваши конкуренты будут более развиты."
+    CUSTOMIZATION13       "Сложность можно изменить в любой момент игры, перейдя в меню настроек.
 
-Difficulty controls how easy it is to break into the market."
-    CUSTOMIZATION14       "You can pick how many days you want per month.
+Сложность игры контролирует, как легко вам будет выйти на рынок."
+    CUSTOMIZATION14       "Вы можете выбрать, сколько дней будет в месяце.
 
-1 month lasts for 1 day by default. The game was made with this pace in mind and it is therefore the recommended setting.
+1 месяц длится 1 день по умолчанию. Игра была разработана с учетом этого темпа, и поэтому это рекомендуемая настройка.
 
-If you feel the game is going too fast or you want a couple of days to earn money between having to pay bills, you can increase this setting. Be aware that everything will move slower to match the setting you pick and you can't change it later on."
-    CUSTOMIZATION15       "Click the Pick map button to pick your starting environment"
-    CUSTOMIZATION16       "Here you can see a list of buildings you can buy outright or lease your way into. Next to each picture you can see whether a building is \"For rent\" or \"For sale\".
+Если вы чувствуете, что игра идет слишком быстро или вам нужно несколько дней, чтобы заработать деньги между оплатой счетов, вы можете увеличить эту настройку. Имейте в виду, что все будет двигаться медленнее, чтобы соответствовать выбранному вами параметру, и вы не сможете изменить его позже."
+    CUSTOMIZATION15       "Нажмите кнопку Выбрать карту, чтобы выбрать стартовое окружение"
+    CUSTOMIZATION16       "Здесь вы можете увидеть список зданий, которые вы можете купить сразу или получить в аренду. Рядом с каждой картинкой вы можете увидеть, будет ли здание \"Сдаваться в аренду\" или \"Продаваться\".
 
-Note that the \"Building area\" for buildings you can lease into defines the maximum area you can lease as you expand your company."
-    CUSTOMIZATION17       "You can use these buttons to pick whether you want to lease or buy an empty plot.
+Обратите внимание, что \"Площадь застройки\" для зданий, которые вы можете арендовать, определяет максимальную площадь, которую вы можете арендовать при расширении своей компании."
+    CUSTOMIZATION17       "Вы можете использовать эти кнопки, чтобы выбрать, хотите ли вы арендовать или купить пустой участок.
 
-Construction is very expensive, so it is recommended that you start off leasing. You can relocate your company any time you want during gameplay."
+Строительство стоит очень дорого, поэтому рекомендуется начинать с аренды. Вы можете переехать со своей компанией в процессе игры."
     DESIGNDOCUMENT1       "Start the tutorial by pressing the \"Develop software\" button to bring up the design document."
     DESIGNDOCUMENT2       "Welcome to the design document, the heart of Software Inc. This is where you decide what kind of software you want to make.
 
@@ -355,38 +355,38 @@ You can use this to see what is wrong if your employees suddenly start working s
     EMPLOYEES13           "In the beginning of the game you will need to make some quick cash.
 
 Bring up the Contract window to get some work."
-    HIRING1               "Start by opening the hire window"
-    HIRING2               "Before you can hire anyone, you need to put out a search for employees. Start by choosing which role your new employee should be good at."
-    HIRING3               "You should also pick a specialization you want them to be good at."
-    HIRING4               "Then you need to decide how much money you want to give your potential employee per month. It is very important that you make sure you have enough money to actually pay them or you'll go bankrupt very quickly.
+    HIRING1               "Начните с открытия окна найма сотрудников"
+    HIRING2               "Прежде чем вы сможете нанять кого-либо, вам нужно провести поиск сотрудников. Начните с выбора роли, которой должен обладать ваш новый сотрудник."
+    HIRING3               "Вы также должны выбрать специализацию."
+    HIRING4               "Затем вам нужно решить, сколько денег вы хотите давать своему потенциальному сотруднику в месяц. Очень важно убедиться, что у вас достаточно денег, чтобы платить им или вы очень быстро обанкротитесь.
 
-The quality of applicants will depend on how high you set the salary and your company benefits, among other things. Very high skilled employees only have a chance to appear in the highest salary bracket."
-    HIRING5               "You can also choose to interview employees in specific areas upfront. You can wait to interview employees before you hire them, but that might be more expensive, depending on how many you intend to hire.
+Качество претендентов будет зависеть от того, насколько высока указанная зарплата и репутация вашей компании."
+    HIRING5               "Вы так же можете провести собеседование, прежде чем наймете их, но это может выйти дороже, в зависимости от того, сколько сотрудников вы собираетесь нанять.
 
-Each interview option will increase the final cost of your employee search."
-    HIRING6               "Finally, you need to decide how much money you want to spend searching for applicants. The more money you spend, the more potential employees you will reach, but you're guaranteed to receive at least one application.
+Каждый вариант собеседования увеличивает цену поиска."
+    HIRING6               "Наконец, вам нужно решить, сколько денег вы хотите потратить на поиск кандидатов. Чем больше денег вы потратите, тем больше кандидатов вы найдете, но вы гарантированно найдете хотя бы одного кандитата.
 
-Press {H:Begin looking} to start your reviewing applicants."
-    HIRING7               "This is a list of employees that applied to the open position in your company. You can select employees to inspect them and press the {H:Hire} button to hire them.
+Нажмите {H:Begin looking}."
+    HIRING7               "Это список кандидатов обратившихся на открытую вакансию в вашей компании. Вы можете выбрать сотрудников для просмотра их резюме и нажать кнопку {H:Hire}, чтобы нанять их.
 
-Employees are expensive and you should probably wait before you hire any if you are just starting out.
+Сотрудники обходятся дорого, и вам, вероятно, стоит подождать, прежде чем нанимать их, если вы только начинаете руководить компанией.
 
-Try selecting an employee on the list."
-    HIRING8               "You can easily navigate the applications by using the arrow keys on your keyboard and pressing enter to hire.
+Попробуйте выбрать сотрудника из списка."
+    HIRING8               "Вы можете легко перемещаться по списку, используя клавиши со стрелками на клавиатуре, а так же нажав клавишу \"Enter\" для найма.
 
-When you are done, simply close the window."
-    HR1                   "To manage HR settings open the team window"
-    HR2                   "With the team window open, select a team in the list and click on the {H:HR management} button."
-    HR3                   "The HR management tasks you have at your disposal depend on the team leader's HR specialization level. The stars above each section are highlighted depending on whether the team leader has the necessary training.
+Когда вы закончите, просто закройте окно."
+    HR1                   "Чтобы включить управление персоналом, откройте окно команды"
+    HR2                   "Открыв окно команды, прокрутите список команд и нажмите на {H:HR management} кнопку."
+    HR3                   "Задачи управления персоналом, которые вы имеете в своем распоряжении, зависят от уровня специализации руководителя группы. Звезды над каждой секцией выделяются в зависимости от того, имеет ли руководитель группы необходимую подготовку.
 
-By default the selected HR options do nothing. The HR options you select for a team will not change when a new team leader is assigned, but which and how well HR tasks are carried out will depend on the leader's skill and specialization level."
-    HR4                   "The first two labels tell you how much this team costs in salaries and how much money was spent on HR tasks last month."
-    HR5                   "You can make your leader send off employees for education autonomously.
+По умолчанию выбранные параметры управления персоналом ничего не делают. Параметры управления персоналом, которые вы выберете для команды, не изменятся при назначении нового руководителя группы, но то, насколько хорошо выполняются задачи управления персоналом, будет зависеть от квалификации и уровня специализации руководителя."
+    HR4                   "Первые два лейбла показывают Вам, сумму зарплат данной команды, а так же сколько денег было потрачено на HR-задачи в прошлом месяце."
+    HR5                   "Вы можете заставить своего руководителя отправлять сотрудников на обучение самостоятельно.
 			
-The education level sets the maximum amount of stars a leader will send an employee for. Employees will always be sent for education in the specialization they have the most stars in."
-    HR6                   "The last text fields allow your leader to automatically hire enough employees, such that the team always has the specified amount in the specified roles. The leader will be in charge of the application process.
+Уровень образования устанавливает максимальное количество звезд, за которые руководитель будет посылать сотрудника. Сотрудники всегда будут направлены на обучение по специальности, в которой у них больше всего звезд."
+    HR6                   "Последние текстовые поля позволяют вашему руководителю автоматически нанимать достаточное количество сотрудников, так что команда всегда имеет указанное количество в указанных ролях. Руководитель будет отвечать за процесс подачи заявки.
 
-You can hover over some of the options to get further details. Close the window when you are done to end the tutorial."
+Вы можете навести курсор мыши на некоторые параметры, чтобы получить более подробную информацию. Закройте окно, когда решите закончить обучение."
     LEASING1              "Start by entering {H:Build mode} by clicking the Build-button."
     LEASING2              "The game is always paused in build mode.
 
