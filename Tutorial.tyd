@@ -2,11 +2,11 @@ Tutorial
     {
     SHARED1               "Чтобы начать разработку программного обеспечения, проектировщикам нужно объединиться и создать дизайн-документ. Этот документ описывает структуру и метод разработки програмнного обеспечения.
 	
-Фаза проектирования делится на итерации. Каждая итерация повышает потенциальное конечное качество продукта и уменьшает скорость и количество багов. Существует два пути проектирования:
+Стадия проектирования делится на итерации. Каждая итерация повышает потенциальное конечное качество продукта и уменьшает скорость и количество багов. Существует два пути проектирования:
 	•Вы можете завершить одну итерацию и позже, на этапе разработки, решить оставшиеся проблемы
 	•Вы можете завершить все итерации сразу и столкнуться с меньшим количеством проблем на этапе разработки
 	
-Первый метод очень эффективен, но из-за него становится трудно рассчитать длительность разработки, однако второй метод гарантированно продлит фазу проектирования в геометрической прогрессии.
+Первый метод очень эффективен, но из-за него становится трудно рассчитать длительность разработки, однако второй метод гарантированно продлит стадию проектирования в геометрической прогрессии.
 
 Нажмите {H:продолжить}, чтобы продолжить."
     SHARED2               "Совершая ревью, Вы должны выбрать количество конечных оценок, которое хотите получить. Чем больше оценок Вы получите, тем выше точность конечного ревью.
@@ -47,6 +47,72 @@ Tutorial
 Кликните правой копкой мыши по Вашей новой комнате и выберите кнопку {H:Сменить команду}, которая напоминает кружок со стрелками. Появится окно, нажмите на {H:Core} чтобы назначить комнату данной команде.
 
 Не забывайте назначать сотрудникам команды. Вы можете сделать это, нажав {KeyBind:ContextMenu} при выборе сотрудника, а затем выбрав {H:Сменить команду}, из окна сотрудников или в окне найма."
+    SHARED12                "Start the tutorial by pressing the \"Develop software\" button to bring up the design document."
+    SHARED13                "Continue by going to the first page of the advanced design document."
+    SHARED14                "Welcome to the design document, the heart of Software Inc. This is where you decide what kind of software you want to make.
+
+Start by picking a software type.
+
+Click continue to to advance the tutorial."
+    SHARED15                "If applicable, you can pick a software category. Each category for a software type has different development times, popularity, audience retention, features and its own target audience."
+    SHARED16                "Then pick a name. You can either write one yourself or press the \"Name:\" button to have it generated."
+    SHARED17                "You can also pick a price. If you leave the price field alone, the best price will be picked based on the software and features you've chosen. You can click the Price button to reset the price."
+    SHARED18                "Let's look at the features you can pick for your product. Each feature takes time to develop and satisfies different markets.
+
+Software is divided up into specializations, like 2D, 3D, System, etc. Each specialization is shown as a container in the feature panel and each container has a list of extra features you can add. The extra features require that your employees have the right amount of \"stars\" for the specialization they belong to.
+
+Features that are highlighted in red are unavailable because you don't have any employees in your selected development teams that have the required amount of stars."
+    SHARED19                "1 star features are simple features that help satisfy submarkets to a lesser degree
+
+2 star features are far more effective at satisfying their target audiences than 1 star features, as you'll get more value for the time spent developing them
+
+3 star features don't satisfy your target audience, but instead modify your software in some way"
+    SHARED20                "As you may have noticed, each main feature has a tech level associated with it. Tech levels can be researched by you or other companies from year to year.
+
+Sticking to the latest tech level will increase your target audience satisfaction and the marketability of your product, but increase development time and possible research and license costs associated with its development.
+
+It's worth noting that the maximum tech level is limited by any tools needed during development."
+    SHARED21                "You can make your software a sequel to a product you made previously or which you bought from another company. You do this by clicking the {H:Original IP} button and selecting a product.
+
+Making a sequel will give a marketing boost and change your fans' expectations depending on the success of its predecessors.
+
+Features that were implemented in the predecessor product will be highlighted in orange in the feature panel, as these features will be developed faster than normal."
+    SHARED22                "Your product can depend on other software types. As an example, you will need a 2D Editor to make a game with 2D graphics, otherwise your artists wouldn't be able to create the graphical assets needed.
+			
+Furthermore, most software also needs to run on one or more operating systems. It would be wise to pick popular operating systems to support, as they will limit your audience size. But beware that each operating system you decide to support will extend development time.
+
+You can port your software to other operating systems after it has been released, if you so desire.
+
+Move to the next page when you're ready."
+    SHARED23                "The submarket triangle let's you decide how your marketing and design efforts will be weighted, to target a section of users in the market.
+
+You could either decide which markets you want to target and pick features that will satisfy those markets, or pick the features you want in your product and balance the markets to fit those features.
+
+The 3 bars in the bottom will show you how well your chosen features satisfy each market and how much they require, based on how you balanced the triangle.
+
+Only 1 page left to go!"
+    SHARED24                "If you're worried about how to pay your developers, how many physical copies you'll have to order or how much effort to put into your marketing campaign, you can sign up with a publisher and they will handle these details, if you agree to pay royalties off your product's profits."
+    SHARED25                "Before you finish, make sure you inspect the information in this box. This outlines everything you need to develop this product.
+			
+Take special note of the {H:Expected interest} percent, as adding more features after it hits 100% will only increase development time and not your sales.
+
+Having more than the suggested amount of employees on the development teams will result in diminishing returns, so you're paying more in salaries, but getting a smaller and smaller speed increase in return."
+    SHARED26                "After you've went through the phases of development and you're ready to release your product, remember to see if any popular products have just been released in the same software category as yours.
+
+You can also check out upcoming releases from your competitors to make sure a large company won't outshine your product.
+
+Timing is everything when you're just starting out!"
+    ADVANCEDDESIGNDOCUMENT3 "The first page of the advanced design document resembles the simple design document, but with an added {H:Framework} panel.
+
+You can use or create a framework when developing software. Frameworks speed up development, but lock down the maximum tech levels of your features.
+
+Using a framework made by another company will require you pay a license fee from your profits.
+
+If you decide to create a new framework, it will extend development slightly, but the new framework can be licensed out to other companies to make some extra money on the side."
+    ADVANCEDDESIGNDOCUMENT4 "The advanced design document has multiple pages. Let's move on to page 2 to continue."
+    ADVANCEDDESIGNDOCUMENT7 "This is the summary page. Here you can look over the final details of your project, decide on which design and development teams to use, and whether you want a {H:Publisher}. Publishers will help fund your project, handle marketing and physical distribution for a cut of your profits.
+
+Click the develop button when you're ready to begin development."
     ALPHAWORK1            "Вы должны пройти этап разработки, прежде чем двигаться дальше."
     ALPHAWORK2            "Ваш проект переведен на реализацию.
 
@@ -61,8 +127,8 @@ Tutorial
 На этапе внедрения у вас также есть возможность отправить продукт для прессы, чтобы они могли опробовать ваше программное обеспечение. Продукт не требуют никакой работы с вашей стороны, но убедитесь, что у вас есть хорошие оценки в ваших рецензиях, прежде чем отправлять.
 
 Обучение будет продолжено, как только вы отправите \"Пресс-релиз\"."
-    ALPHAWORK8            "Нажмите кнопку \"Сл. этап\", чтобы перейти к бета-фазе, когда вы будете готовы."
-    ALPHAWORK9            "Бета-фаза теоретически бесконечна, но в какой-то момент вам придется выпустить свой проект, особенно если вы уже объявили дату выпуска.
+    ALPHAWORK8            "Нажмите кнопку \"Сл. этап\", чтобы перейти к бета-стадии, когда вы будете готовы."
+    ALPHAWORK9            "Бета-стадия теоретически бесконечна, но в какой-то момент вам придется выпустить свой проект, особенно если вы уже объявили дату выпуска.
 
 Рекомендуется исправить как можно больше ошибок, так как глючные продукты приведут к возвратам. Когда ваш продукт будет выпущен, вы сможете исправить больше ошибок, так как ваши клиенты свяжутся с вашей службой поддержки.
 
