@@ -335,7 +335,14 @@ Software
             VR [ "VR"; "Виртуальная реальность" ]
             }
         Feature { Facialanimations "Лицевые анимации" }
-        Feature { Proceduralgeneration "Процедурная генерация" }
+        Feature
+            {
+            Proceduralgeneration
+                [
+                "Процедурная генерация"
+                "Автоматическое создание игрового контента с помощью алгоритмов"
+                ]
+            }
         Feature
             {
             Wackyphysics
@@ -507,8 +514,8 @@ Software
             {
             Applicationscanner
                 [
-                "Сканирование приложений"
-                "Поиск вирусов в фоновом режиме, сопровождающийся случайными сбоями."
+                "Сканер приложений"
+                "Сканирование на наличие вредоносных программ в фоновом режиме, вызывает веселые сбои случайным образом."
                 ]
             }
         Feature
@@ -525,7 +532,7 @@ Software
             }
         Feature
             {
-            Interface [ "Интерфейс"; "" ]
+            Interface [ "Интерфейс"; "Защита от угроз использования" ]
             }
         Feature
 			{
@@ -543,7 +550,7 @@ Software
 				"Оповещения о взломах"
 				]
 			}
-        Feature { Filequarantine "Файловый карантин" }
+        Feature { Filequarantine "Карантин файлов" }
         Feature
             {
             Passwordmanagement
@@ -565,7 +572,7 @@ Software
                 "Пасьянс Паук не требует доступа к системным файлам."
                 ]
             }
-        Feature { IPfiltering "IP-фильтрация" }
+        Feature { IPfiltering "IP фильтрация" }
         Feature
             {
             Anti-spam
