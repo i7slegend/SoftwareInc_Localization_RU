@@ -21,7 +21,7 @@ Tutorial
 Заметьте, что обзоры будут сделаны относительно той версии проекта, которая была актуальной на момент начала ревью, поэтому изменения, внесенные в продукт после этого, не будут влиять на оценку обзоров.
 			
 Нажмите кнопку {H:Завершить} на панели ревью, когда шкала прогресса заполнится."
-    SHARED4               "Если финальная оценка неудовлетворительна, Вы можете нажать кнопку \"Итерация\", чтобы приостановить разработку и позволить Вашем проектировщикам переработать дизайн-документ. Это затянет все слабые стороны, но также немного задержит прогресс разработки Вашего проекта.
+    SHARED4               "Если финальная оценка неудовлетворительна, Вы можете нажать кнопку \"Итерация\", чтобы приостановить разработку и позволить вашим проектировщикам переработать дизайн-документ. Это затянет все слабые стороны, но также немного задержит прогресс разработки Вашего проекта.
 
 Если Вы удовлетворены конечной оценкой, просто закройте окно ревью и прдолжите разработку."
     SHARED5               "Нажимая {KeyBind:MultipleSelect} при выборе мебели, комнат или сотрудников, Вы сможете выбрать несколько объектов, а затем нажать {KeyBind:ContextMenu} где-либо, чтобы открыть контекстное меню. Вы можете зажать {KeyBind:SweepSelect}, чтобы выбрать объекты одного типа или нажать {KeyBind:NormalSelection} и перемещать мышь, чтобы выбрать все, что попадет под курсор.
@@ -47,61 +47,61 @@ Tutorial
 Кликните правой копкой мыши по Вашей новой комнате и выберите кнопку {H:Сменить команду}, которая напоминает кружок со стрелками. Появится окно, нажмите на {H:Core} чтобы назначить комнату данной команде.
 
 Не забывайте назначать сотрудникам команды. Вы можете сделать это, нажав {KeyBind:ContextMenu} при выборе сотрудника, а затем выбрав {H:Сменить команду}, из окна сотрудников или в окне найма."
-    SHARED12                "Start the tutorial by pressing the \"Develop software\" button to bring up the design document."
-    SHARED13                "Continue by going to the first page of the advanced design document."
-    SHARED14                "Welcome to the design document, the heart of Software Inc. This is where you decide what kind of software you want to make.
+    SHARED12                "Начните обучение нажав кнопку \"Разработка ПО\" чтобы открыть проектирование документа."
+    SHARED13                "Продолжите, перейдя на первую страницу расширенного проектного документа."
+    SHARED14                "Добро пожаловать в проектную документацию, сердце Software Inc. Именно здесь вы решаете, какое программное обеспечение вы хотите создать.
 
-Start by picking a software type.
+Начните с выбора типа программного обеспечения.
 
-Click continue to to advance the tutorial."
-    SHARED15                "If applicable, you can pick a software category. Each category for a software type has different development times, popularity, audience retention, features and its own target audience."
-    SHARED16                "Then pick a name. You can either write one yourself or press the \"Name:\" button to have it generated."
-    SHARED17                "You can also pick a price. If you leave the price field alone, the best price will be picked based on the software and features you've chosen. You can click the Price button to reset the price."
-    SHARED18                "Let's look at the features you can pick for your product. Each feature takes time to develop and satisfies different markets.
+Нажмите кнопку \"Продолжить\", чтобы продолжить обучение."
+    SHARED15                "Если это возможно, вы можете выбрать категорию программного обеспечения. Каждая категория для определенного типа программного обеспечения имеет разные сроки разработки, популярность, удержание аудитории, функции и свою собственную целевую аудиторию."
+    SHARED16                "Дальше выберите имя. Вы можете либо написать его самостоятельно, либо нажать кнопку \"Имя:\", чтобы он был сгенерирован."
+    SHARED17                "Вы также можете выбрать цену. Если вы оставите поле цены в покое, то лучшая цена будет выбрана на основе выбранного вами программного обеспечения и функций. Вы можете нажать кнопку \"Цена:\", чтобы сбросить цену."
+    SHARED18                "Давайте рассмотрим функции, которые вы можете выбрать для своего продукта. Каждая функция требует времени для развития и удовлетворяет различные рынки.
 
-Software is divided up into specializations, like 2D, 3D, System, etc. Each specialization is shown as a container in the feature panel and each container has a list of extra features you can add. The extra features require that your employees have the right amount of \"stars\" for the specialization they belong to.
+Программное обеспечение делится на специализации, такие как 2D, 3D, Системы и т.д. Каждая специализация отображается в виде контейнера на панели функций, и у каждого контейнера есть список дополнительных функций, которые вы можете добавить. Дополнительные функции требуют, чтобы ваши сотрудники имели нужное количество \"звезд\" для той специализации, к которой они принадлежат.
 
-Features that are highlighted in red are unavailable because you don't have any employees in your selected development teams that have the required amount of stars."
-    SHARED19                "1 star features are simple features that help satisfy submarkets to a lesser degree
+Функции, выделенные красным цветом, недоступны, поскольку в выбранных вами командах разработчиков нет сотрудников с требуемым количеством звездочек."
+    SHARED19                "1-звездочные функции - это простые функции, которые помогают в меньшей степени удовлетворить потребности подрынков
 
-2 star features are far more effective at satisfying their target audiences than 1 star features, as you'll get more value for the time spent developing them
+2-звездочные функции гораздо эффективнее удовлетворяют свою целевую аудиторию, чем 1-звездочные функции, так как вы получите больше пользы за время, потраченное на их разработку
 
-3 star features don't satisfy your target audience, but instead modify your software in some way"
-    SHARED20                "As you may have noticed, each main feature has a tech level associated with it. Tech levels can be researched by you or other companies from year to year.
+3-звездочные функции не удовлетворяют вашу целевую аудиторию, но вместо этого модифицируют ваше программное обеспечение"
+    SHARED20                "Как вы, возможно, заметили, каждая основная функция имеет технический уровень. Технические уровни могут быть исследованы вами или другими компаниями из года в год.
 
-Sticking to the latest tech level will increase your target audience satisfaction and the marketability of your product, but increase development time and possible research and license costs associated with its development.
+Следование последнему технологическому уровню повысит удовлетворенность вашей целевой аудитории и конкурентоспособность вашего продукта, но увеличит время разработки и возможные затраты на исследования и лицензии, связанные с его разработкой.
 
-It's worth noting that the maximum tech level is limited by any tools needed during development."
-    SHARED21                "You can make your software a sequel to a product you made previously or which you bought from another company. You do this by clicking the {H:Original IP} button and selecting a product.
+Стоит отметить, что максимальный технический уровень ограничен любыми инструментами, необходимыми при разработке."
+    SHARED21                "Вы можете сделать свое программное обеспечение продолжением продукта, который вы сделали ранее или купили у другой компании. Это можно сделать, нажав кнопку {H:Ваши продукты} и выбрав продукт.
 
-Making a sequel will give a marketing boost and change your fans' expectations depending on the success of its predecessors.
+Создание сиквела даст маркетинговый импульс и изменит ожидания ваших поклонников в зависимости от успеха его предшественников.
 
-Features that were implemented in the predecessor product will be highlighted in orange in the feature panel, as these features will be developed faster than normal."
-    SHARED22                "Your product can depend on other software types. As an example, you will need a 2D Editor to make a game with 2D graphics, otherwise your artists wouldn't be able to create the graphical assets needed.
+Функции, которые были реализованы в предыдущем продукте, будут выделены оранжевым цветом на панели функций, так как эти функции будут разрабатываться быстрее, чем обычно."
+    SHARED22                "Ваш продукт может зависеть от других типов программного обеспечения. Например, вам понадобится 2D-редактор для создания игры с 2D-графикой, иначе ваши художники не смогут создать необходимые графические ресурсы.
 			
-Furthermore, most software also needs to run on one or more operating systems. It would be wise to pick popular operating systems to support, as they will limit your audience size. But beware that each operating system you decide to support will extend development time.
+Кроме того, большинство программ также должны работать на одной или нескольких операционных системах. Было бы разумно выбрать популярные операционные системы для поддержки, так как они ограничат размер вашей аудитории. Но имейте в виду, что каждая операционная система, которую вы решите поддерживать, продлит время разработки.
 
-You can port your software to other operating systems after it has been released, if you so desire.
+При желании вы можете перенести свое программное обеспечение на другие операционные системы после его выпуска.
 
-Move to the next page when you're ready."
-    SHARED23                "The submarket triangle let's you decide how your marketing and design efforts will be weighted, to target a section of users in the market.
+Перейдите на следующую страницу, когда будете готовы."
+    SHARED23                "Треугольник подрынка позволяет вам решить, как будут взвешены ваши маркетинговые и дизайнерские усилия, чтобы ориентироваться на определенную часть пользователей на рынке.
 
-You could either decide which markets you want to target and pick features that will satisfy those markets, or pick the features you want in your product and balance the markets to fit those features.
+Вы можете либо решить, на какие рынки вы хотите ориентироваться, и выбрать функции, которые будут удовлетворять этим рынкам, либо выбрать функции, которые вы хотите использовать в своем продукте, и сбалансировать рынки, чтобы соответствовать этим функциям.
 
-The 3 bars in the bottom will show you how well your chosen features satisfy each market and how much they require, based on how you balanced the triangle.
+3 полоски внизу покажут вам, насколько хорошо выбранные вами функции удовлетворяют каждому рынку и сколько они требуют, основываясь на том, как вы сбалансировали треугольник.
 
-Only 1 page left to go!"
-    SHARED24                "If you're worried about how to pay your developers, how many physical copies you'll have to order or how much effort to put into your marketing campaign, you can sign up with a publisher and they will handle these details, if you agree to pay royalties off your product's profits."
-    SHARED25                "Before you finish, make sure you inspect the information in this box. This outlines everything you need to develop this product.
+Осталась всего 1 страница!"
+    SHARED24                "Если вы беспокоитесь о том, как платить вашим разработчикам, сколько физических копий вам придется заказать или сколько усилий вложить в вашу маркетинговую кампанию, вы можете найти издателя, и они будут решать этот вопрос, если вы согласитесь выплачивать отчисления с прибыли вашего продукта."
+    SHARED25                "Прежде чем закончить, обязательно ознакомьтесь с информацией в этом поле. Здесь изложено все, что вам нужно для разработки этого продукта.
 			
-Take special note of the {H:Expected interest} percent, as adding more features after it hits 100% will only increase development time and not your sales.
+Обратите особое внимание на процент {H:Ожидаемый интерес}, поскольку добавление дополнительных функций после достижения 100% только увеличит время разработки, а не ваши продажи.
 
-Having more than the suggested amount of employees on the development teams will result in diminishing returns, so you're paying more in salaries, but getting a smaller and smaller speed increase in return."
-    SHARED26                "After you've went through the phases of development and you're ready to release your product, remember to see if any popular products have just been released in the same software category as yours.
+Наличие более чем рекомендованного количества сотрудников в командах разработчиков приведет к уменьшению прибыли, так что вы платите больше по зарплате, но получаете меньшую и меньшую прибавку в скорости."
+    SHARED26                "После того как вы пройдете все этапы разработки и будете готовы выпустить свой продукт, не забудьте посмотреть, выпускались ли какие-либо популярные продукты в той же категории программного обеспечения, что и у вас.
 
-You can also check out upcoming releases from your competitors to make sure a large company won't outshine your product.
+Вы также можете проверить предстоящие выпуски у своих конкурентов, чтобы убедиться, что крупная компания не затмит ваш продукт.
 
-Timing is everything when you're just starting out!"
+TВремя - это все, когда вы только начинаете!"
     ADVANCEDDESIGNDOCUMENT3 "The first page of the advanced design document resembles the simple design document, but with an added {H:Framework} panel.
 
 You can use or create a framework when developing software. Frameworks speed up development, but lock down the maximum tech levels of your features.
@@ -117,8 +117,8 @@ Click the develop button when you're ready to begin development."
     ALPHAWORK2            "Ваш проект переведен на реализацию.
 
 Этап реализации состоит из двух шагов:
-	•{H:Alpha}: рразработчики и художники создают продукт в соответствии с проектными требованиями.
-	•{H:Beta}: программисты обнаруживают ошибки и исправляют их до окончательного релиза."
+	•{H:Альфа}: рразработчики и художники создают продукт в соответствии с проектными требованиями.
+	•{H:Бета}: программисты обнаруживают ошибки и исправляют их до окончательного релиза."
     ALPHAWORK3            "Вы увидите, как заполняется индикатор выполнения, когда ваши сотрудники работают над проектом, вы можете навести курсор мыши на задачу, чтобы получить подробную информацию.
 		
 Однако прогресс ничего не говорит о реальном качестве проекта. Чтобы получить представление о том, насколько хороша работа ваших сотрудников, вам необходимо провести экспертную оценку. Начните с нажатия кнопки Обзор."
@@ -296,7 +296,7 @@ You can either:
 Вы можете автоматически заполнить остальную часть проектного документа, нажав кнопку {H:Generate design}, или вы можете нажать на кнопку {H:Next page} чтобы увидеть остальное, что может предложить проектная документация.
 
 А пока давайте перейдем к обзору всех ваших вариантов в проектной документации."
-    DESIGNDOCUMENT8       "Давайте рассмотрим функции, которые вы можете выбрать для своего продукта. Каждая функция требует времени для развития и удовлетворяет каждый субрынок в разной степени.
+    DESIGNDOCUMENT8       "Давайте рассмотрим функции, которые вы можете выбрать для своего продукта. Каждая функция требует времени для развития и удовлетворяет каждый подрынок в разной степени.
 
 Программное обеспечение делится на специализации, такие как 2D, 3D, Системы и т.д. Каждая специализация отображается в виде контейнера на панели функций, и каждый контейнер содержит список дополнительных функций, которые вы можете добавить. Дополнительные функции требуют, чтобы ваши сотрудники имели нужное количество \"звезд\" для той специализации, к которой они относятся.
 
