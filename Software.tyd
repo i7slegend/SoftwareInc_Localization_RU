@@ -305,6 +305,10 @@ Software
             Physics [ "Физика"; "Упругие штуки." ]
             }
         Feature { Dialogtrees "Система диалогов" }
+		Feature { SaveGame "Система сохранений" }
+		Feature { ControllerInput "Геймпад" }
+		Feature { GameModes "Игровые режимы" }
+		Feature { MouseInput "Мышка" }
         Feature
             {
             Branchingstory
