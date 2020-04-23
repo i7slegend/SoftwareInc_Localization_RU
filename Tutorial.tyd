@@ -99,20 +99,18 @@ Tutorial
 Наличие более чем рекомендованного количества сотрудников в командах разработчиков приведет к уменьшению прибыли, так что вы платите больше по зарплате, но получаете меньше скорости разработки"
     SHARED26                "После того как вы пройдете все этапы разработки и будете готовы выпустить свой продукт, не забудьте посмотреть, выпускались ли какие-либо популярные продукты в той же категории программного обеспечения, что и у вас.
 
-Вы также можете проверить предстоящие выпуски у своих конкурентов, чтобы убедиться, что крупная компания не затмит ваш продукт.
+Вы также можете проверить предстоящие выпуски у своих конкурентов, чтобы убедиться, что крупная компания не затмит ваш продукт"
+    ADVANCEDDESIGNDOCUMENT3 "Первая страница документа с расширенным проектированием напоминает документ с простым проектированием, но с добавленной панелью {H:Фреймворк}.
 
-Время - это все, когда вы только начинаете!"
-    ADVANCEDDESIGNDOCUMENT3 "The first page of the advanced design document resembles the simple design document, but with an added {H:Framework} panel.
+Вы можете использовать или создавать фреймворк при разработке программного обеспечения. Фреймворки ускоряют разработку, но блокирует максимальный технологический уровень ваших функций.
 
-You can use or create a framework when developing software. Frameworks speed up development, but lock down the maximum tech levels of your features.
+Использование фреймворка, созданного другой компанией, потребует от вас уплаты лицензионного сбора из вашей прибыли.
 
-Using a framework made by another company will require you pay a license fee from your profits.
+Если вы решите создать новый фреймворк, он немного продлит разработку, но новый фреймворк может быть лицензирован другими компаниями, что принесет вам прибыль."
+    ADVANCEDDESIGNDOCUMENT4 "Расширенный проектный документ имеет несколько страниц. Давайте перейдем к следующей странице, чтобы продолжить."
+    ADVANCEDDESIGNDOCUMENT7 "Это сводная страница. Здесь вы можете просмотреть окончательные детали вашего проекта, решить, какие команды проектирования и разработчиков использовать, и нужен ли вам {H:Издатель}. Издатели будут помогать финансировать ваш проект, заниматься рекламой и распространением продукта, за долю от вашей прибыли.
 
-If you decide to create a new framework, it will extend development slightly, but the new framework can be licensed out to other companies to make some extra money on the side."
-    ADVANCEDDESIGNDOCUMENT4 "The advanced design document has multiple pages. Let's move on to page 2 to continue."
-    ADVANCEDDESIGNDOCUMENT7 "This is the summary page. Here you can look over the final details of your project, decide on which design and development teams to use, and whether you want a {H:Publisher}. Publishers will help fund your project, handle marketing and physical distribution for a cut of your profits.
-
-Click the develop button when you're ready to begin development."
+Нажмите кнопку {H:Далее}, чтобы начать разработку, когда будете готовы."
     ALPHAWORK1            "Вы должны пройти этап разработки, прежде чем двигаться дальше."
     ALPHAWORK2            "Ваш проект переведен на реализацию.
 
@@ -351,74 +349,79 @@ Make sure you do a client review before you move on to the bug fixing stage, to 
 
 Снова откройте окно {H:Реклама}"
     DESIGNWORK5           "Обязательно прочитайте текст в окне рекламы, здесь изложено, как обрабатывать различные рекламные действия, доступные для вас."
-    DESIGNWORK6           "Нажмите кнопку {H:Далее}, чтобы начать разработку, когда вы будете готовы.
+    DESIGNWORK6           "Нажмите кнопку {H:Далее}, чтобы начать разработку, когда будете готовы.
 
 Щелкните правой кнопкой мыши строку заголовка рабочего элемента, чтобы переключиться между обычным и свернутым видом.
 
 Щелкните левой кнопкой мыши строку заголовка и перетащите ее, чтобы изменить порядок рабочих элементов."
-    DIGITALDISTRIBUTION1  "Open the distribution window to begin the tutorial."
-    DIGITALDISTRIBUTION2  "To start selling products through your own digital online store, you can click the highlighted button in the distribution window and pick a server to run the store on. Note that running your own store requires a lot of bandwidth if a product is selling well.
+    DIGITALDISTRIBUTION1  "Откройте окно дистрибутива, чтобы начать обучение."
+    DIGITALDISTRIBUTION2  "Чтобы начать продавать товары через собственный цифровой интернет-магазин, вы можете нажать подсвеченную кнопку в окне дистрибутива и выбрать сервер для запуска магазина. Обратите внимание, если продукт хорошо продается, потребуется много трафика.
 
-You need to set up deals with other companies individually if you want them to sell their products through your store.
+Если вы хотите, чтобы они продавали свою продукцию через ваш магазин, вам нужно индивидуально заключать сделки с другими компаниями.
 
-Open up the companies window now, to see how to make distribution deals."
-    DIGITALDISTRIBUTION3  "Click on the details button on a company you want to make a deal with, to open the company's detail window.
+Откройте окно {H:Компании} прямо сейчас, чтобы увидеть, как заключать дистрибьюторские сделки."
+    DIGITALDISTRIBUTION3    "Если вы хотите получить дополнительный доход, распространяя продукты других компаний на своем сервере, вы можете включить его с помощью выделенного переключателя.
 
-The window will have a button to start negotiating a distribution deal, if applicable.
+Ваша доля на цифровом рынке и деловая репутация, будет определять, сколько вы решите взять из дохода ваших клиентов, чем меньше тем больше желающих зарегистрироваться в вашем цифровом магазине.
 
-To continue, make sure you have opened a digital distribution store and click the highlighted deal button. Otherwise, you can come back to this tutorial later through the Options window."
-    DIGITALDISTRIBUTION4  "Here you can see all previous bids and you can use the slider and button to make new offers.
+Компании автоматически начнут регистрироваться на ваш сервис ежемесячно. Активные продавцы перечислены ниже переключателя."
+    DIGITALDISTRIBUTION4  "Здесь вы можете просмотреть все предыдущие ставки, а также использовать ползунок и кнопку для создания новых предложений.
 		
-You have the ability to Cancel the deal before your first bid. Once the bidding war has started, the deal will either succeed or fail.
+У вас есть возможность отменить сделку до первой ставки. Как только начнутся торги, сделка будет либо успешной, либо неудачной.
 
-If a deal fails, your relationship with the other company will temporarily degrade. You need to wait some months after a failed deal, if you want to get a good deal.
+Если сделка не состоится, ваши отношения с другой компанией временно ухудшатся. Вам нужно подождать несколько месяцев после неудачной сделки, если вам нужна хорошая сделка.
 
-Your digital market share and the other company's worth will influence how much they are willing to give you and some companies drive a harder bargain than others."
-    EDUCATION1            "You need an employee who is ready for education before you can begin the education tutorial.
+Ваша доля на цифровом рынке и стоимость другой компании будут влиять на то, сколько они готовы дать вам."
+    EDUCATION1              "You need an employee who is ready for education before you can begin the education tutorial.
 
-Employees will be elligable for education when they gain enough experience working on different tasks."
-    EDUCATION2            "Begin the tutorial by opening the {H:Employee window}, selecting the employees you want to educate and press the {H:Educate} button or by selecting one or more of your employees, press {KeyBind:ContextMenu} anywhere on the screen to bring up the context menu, and then pick {H:Educate employee}.
+Employees will be eligible for education when they gain enough experience working on different tasks."
+    EDUCATION2              "Begin the tutorial by opening the {H:Employee window}, selecting the employees you want to educate and press the {H:Educate} button or by selecting one or more of your employees, press {KeyBind:ContextMenu} anywhere on the screen to bring up the context menu, and then pick {H:Educate employee}.
 			
 You can see which employees are ready for education in the Employee window by looking for green icons in the {H:role} column."
-    EDUCATION3            "In the education window you can pick a role and a specialization you want to educate your employees in. After they finish their course, employees will gain one star in the specialization you picked.
+    EDUCATION3              "In the education window you can pick a role and a specialization you want to educate your employees in. After they finish their class, employees will gain one star in the specialization you picked.
 
-Based on the employees and specialization you have picked, you can see how much time and money it will require for your employees to finish their courses."
-    EDUCATION4            "At the top you can see which of your chosen employees are applicable for the education you have picked. When you click {H:Start education} all applicable empoyees will start their courses. If there are any employees left, you can then decide what they will be educated in."
-    EMPLOYEES1            "Begin by opening the employee window."
-    EMPLOYEES2            "This is a list of all your employees, which details their status.
+Based on the employees and specialization you have picked, you can see how much time and money it will require for your employees to finish their classes."
+    EDUCATION4              "At the top you can see which of your chosen employees are applicable for the education you have picked.
+
+When you click {H:Start education} all applicable employees will start their classes. If there are any employees left, you can then decide what they will be educated in. You can queue up classes for an employee by starting education for the employee several times."
+    EDUCATION5              "You can also click directly on the highlighted stars if you want to quickly pick classes for the selected employee.
+
+Note that if you click a star that is more than 1 level above what the employee currently has, they will be sent for multiple classes at once."
+    EMPLOYEES1              "Begin by opening the employee window."
+    EMPLOYEES2              "This is a list of all your employees, which details their status.
 
 You can check any of the options in the top bar to get more details on all your employees."
-    EMPLOYEES3            "When you select an employee in the list, they will be selected in the game and you can get details on their specializations at the bottom of the window.
+    EMPLOYEES3              "When you select an employee in the list, they will be selected in the game and you can get details on their specializations at the bottom of the window.
 
 Try selecting an employee now."
-    EMPLOYEES4            "You can select several employees by holding down shift or ctrl while clicking on their names in the employee window.
+    EMPLOYEES4              "You can select several employees by holding down shift or ctrl while clicking on their names in the employee window.
 
 Now, press {KeyBind:ContextMenu} anywhere to bring up the context menu for the selected employee. Click the {H:Switch team} button to inspect possible team assignments."
-    EMPLOYEES5            "When you are done, click {H:OK} and then press {KeyBind:ContextMenu} again and click the {H:Change employee role} button instead, which resembles a wrench."
-    EMPLOYEES6            "Clicking on a role in the role window will assign the employee exclusively to that role immediately, whereas ticking the checkmarks will allow you to pick several roles for your employee. The second row of checkmarks next to each role is the {H:Secondary} option, in which employees will only work in that role if they have no work in their primary roles.
+    EMPLOYEES5              "When you are done, click {H:OK} and then press {KeyBind:ContextMenu} again and click the {H:Change employee role} button instead, which resembles a wrench."
+    EMPLOYEES6              "Clicking on a role in the role window will assign the employee exclusively to that role immediately, whereas ticking the checkmarks will allow you to pick several roles for your employee. The second row of checkmarks next to each role is the {H:Secondary} option, in which employees will only work in that role if they have no work in their primary roles.
 
 You can also toggle the {H:Any role} checkmark to check or uncheck all roles at once or click {H:Auto role} to assign the employee to the roles that the employee is most proficient at.
 
 Note that {H:Leader} can't be chosen unless the employee is assigned to a team and leaders won't work in full capacity in other roles.
 
 Close the {H:Select role} window and click {H:Continue} to advance the tutorial."
-    EMPLOYEES7            "With your employee selected, press {KeyBind:ContextMenu} once again to bring up the context menu and select {H:Employee details}, which resembles a single person."
-    EMPLOYEES8            "Here you can see the stats of your employee.
+    EMPLOYEES7              "With your employee selected, press {KeyBind:ContextMenu} once again to bring up the context menu and select {H:Employee details}, which resembles a single person."
+    EMPLOYEES8              "Here you can see the stats of your employee.
 
-In top left corner you can see your employee's personality traits, and below that, your employee's specialization progress in each role. When an employee has filled the progress meter, they will be elligable for education in that role to gain a new star. Clicking a role will also allow you to assign the employee to that role."
-    EMPLOYEES9            "In bottom left part of the window you can see your employee's specializations, which shows how educated your employee is in different subjects.
+In top left corner you can see your employee's personality traits, and below that, your employee's specialization progress in each role. When an employee has filled the progress meter, they will be eligible for education in that role to gain a new star. Clicking a role will also allow you to assign the employee to that role."
+    EMPLOYEES9              "In bottom left part of the window you can see your employee's specializations, which shows how educated your employee is in different subjects.
 
 Specializations control which kind of tasks your employee can complete. The {H:base skill} is your employee's experience in that role, which controls the speed and quality of their work in various situations."
-    EMPLOYEES10           "In top right corner of the window you can see your employee's traits. These traits are controlled by your employee's two personality traits.
+    EMPLOYEES10             "In top right corner of the window you can see your employee's traits. These traits are controlled by your employee's two personality traits.
 
 You can hover over each of the three traits to see how they affect the employee."
-    EMPLOYEES11           "In the center right part of the window, you can see the latest thoughts of your employee, this will tell you how happy they are with their place of work, and how effective they are at their job as a consequence.
+    EMPLOYEES11             "In the center right part of the window, you can see the latest thoughts of your employee, this will tell you how happy they are with their place of work, and how effective they are at their job as a consequence.
 
 You should inspect this often to see how well an employee is doing and whether you can do anything to improve their satisfaction."
-    EMPLOYEES12           "Finally, in the bottom right part of the window, you can see what is currently affecting your employee's effectiveness when working.
+    EMPLOYEES12             "Finally, in the bottom right part of the window, you can see what is currently affecting your employee's effectiveness when working.
 	
 You can use this to see what is wrong if your employees suddenly start working slowly or not at all."
-    EMPLOYEES13           "In the beginning of the game you will need to make some quick cash.
+    EMPLOYEES13             "In the beginning of the game you will need to make some quick cash.
 
 Bring up the Contract window to get some work."
     HIRING1               "Начните с открытия окна найма сотрудников"
@@ -453,6 +456,31 @@ Bring up the Contract window to get some work."
     HR6                   "Последние текстовые поля позволяют вашему руководителю автоматически нанимать достаточное количество сотрудников, так что команда всегда имеет указанное количество в указанных ролях. Руководитель будет отвечать за процесс подачи заявки.
 
 Вы можете навести курсор мыши на некоторые параметры, чтобы получить более подробную информацию. Закройте окно, когда решите закончить обучение."
+    INVESTMENTS1            "Start by opening the insurance window"
+    INVESTMENTS2            "You can make money off your money in two ways: By investing in stocks or bonds.
+
+Let's start by going over bonds investments. Click {H:Continue} when you are ready."
+    INVESTMENTS3            "Investing in bonds means loaning out your money and earning money off the yearly {SavingsInterest} interest. It is an easy, risk-free way to make a small steady income, with the downside that you can't be withdraw the money your invest for a while without losing the interest.
+
+You can deposit and withdraw money by using this slider."
+    INVESTMENTS4            "The amount of time that has to pass before you can withdraw money depends on how much money you have deposited within the same financial year. You can see locked deposits in this panel.
+
+When you decide to withdraw money, the bank will start by trying to withdraw any money on your savings account that won't incur an interest fee.
+
+Please note that interest is not deposited directly into your bank account. You have to withdraw it using this window.
+
+Press the stock button to continue"
+    INVESTMENTS5            "Stocks are a much more risky way of investing your money, but it can also earn you a lot more than bonds investments.
+
+You'll need to keep track of the stock market every month to make the most off your investments, so you can't just deposit and forget, in the same way you can with bonds investments.
+
+To invest in a stock, just type in the amount you want to deposit, pick a stock and click {H:Invest}.
+
+You can see and withdraw your current investments in this panel.
+
+{H:Remember to buy high and sell low!}
+
+... Yes, that sounds right."
     LEASING1              "Start by entering {H:Build mode} by clicking the Build-button."
     LEASING2              "The game is always paused in build mode.
 
@@ -461,81 +489,89 @@ When you own a plot you can construct and layout your offices however you like, 
 If you want to buy a plot later on, you can relocate your company by clicking {H:Move company} in the pause window or by using the button next to the build menu.
 
 Click Continue when you are ready."
-    LEASING3              "To begin placing objects, you should move to a floor which has rooms you have leased."
-    LEASING11             "When you no longer feel like you have enough space, you can lease other rooms by selecting them and pressing lease in the bottom left corner or by moving your company to another map.
+    LEASING1                "Start by entering {H:Build mode} by clicking the Build-button."
+    LEASING2                "The game is always paused in build mode.
+
+When you own a plot you can construct and layout your offices however you like, but when you're leasing you can only furnish the offices you're currently leasing.
+
+If you want to buy a plot later on, you can relocate your company by clicking {H:Move company} in the pause window or by using the button next to the build menu.
+
+Click Continue when you are ready."
+    LEASING3                "To begin placing objects, you should move to a floor which has rooms you have leased."
+    LEASING11               "When you no longer feel like you have enough space, you can lease other rooms by selecting them and pressing lease in the bottom left corner or by moving your company to another map.
 
 Try selecting a room you can lease now. Rooms that are available for leasing can be identified by their black interior."
-    LEASING12             "You can also terminate your leases by selecting rooms you are currently leasing. Note that terminating a lease will sell all furniture in the affected rooms, but you can use the undo button to get your furniture back.
+    LEASING12               "You can also terminate your leases by selecting rooms you are currently leasing. Note that terminating a lease will sell all furniture in the affected rooms, but you can use the undo button to get your furniture back.
 
 When you are ready to continue, exit build mode."
-    LEASING13             "When you are ready, open the employees window to start managing your employees."
-    MARKETING1            "Marketing is crucial in Software Inc. Your products simply won't sell without marketing.
+    LEASING13               "When you are ready, open the employees window to start managing your employees."
+    MARKETING1              "Marketing is crucial in Software Inc. Your products simply won't sell without marketing.
 
 You can start a marketing campaign by opening your release window, selecting a product and clicking the market button"
-    MARKETING2            "This is the marketing window.
+    MARKETING2              "This is the marketing window.
 		
 Marketing your product is a potentially endless money sink. The more money you use, the bigger advantage you get over competing products. Bigger software products will need more marketing to compete.
 
 Note that spending more money on marketing than your competitors will prompt them to do the same."
-    MARKETING3            "You can set a budget, which puts an upper limit to the spending for this marketing task. \"0\" means there is no limit.
+    MARKETING3              "You can set a budget, which puts an upper limit to the spending for this marketing task. \"0\" means there is no limit.
 		
 Increasing your marketing budget will not increase marketing efforts. You will need a lot of talented marketers to effectively use your budget.
 
 If you are happy with the team selection, press {H:OK} to start your campaign."
-    MARKETING4            "Your new marketing plan will appear as a work item on the right.
+    MARKETING4              "Your new marketing plan will appear as a work item on the right.
 
 After the first day, the work item will start filling up to indicate how much money you are spending compared to yesterday's marketing efforts.
 
 Press {H:Finish} to end the tutorial."
-    PHYSICALDISTRIBUTION1 "You can order physical copies of your products by going to your releases, selecting a product and clicking the Order copies button."
-    PHYSICALDISTRIBUTION2 "Software is sold both physically in stores and digitally online. As time progresses people will move towards digital purchases and the two platforms even out at some point.
+    PHYSICALDISTRIBUTION1   "You can order physical copies of your products by going to your releases, selecting a product and clicking the Order copies button."
+    PHYSICALDISTRIBUTION2   "Software is sold both physically in stores and digitally online. As time progresses people will move towards digital purchases and the two platforms even out at some point.
 		
 This is the copy order window. It will show you some details that affect how many copies you should order.
 
 You'll have to balance the amount you order with how many you expect to sell to avoid a loss. You can always order a few copies now and order more next month.
 
 Close the window to continue"
-    PHYSICALDISTRIBUTION3 "You can also print copies of your product yourself, which is a lot cheaper long term, but requires a lot more work from you. You'll need printers, storage and couriers to transport your copies to stores.
+    PHYSICALDISTRIBUTION3   "You can also print copies of your product yourself, which is a lot cheaper long term, but requires a lot more work from you. You'll need printers, storage and couriers to transport your copies to stores.
 		
 If you have all the necessary logistics, you can click the \"Start printing\" button in the \"Your releases\" window with a product selected to start a printing task.
 
 Go to build mode to see how you build printers and pallets."
-    PHYSICALDISTRIBUTION4 "You'll find printers and pallets in the furnish menu.
+    PHYSICALDISTRIBUTION4   "You'll find printers and pallets in the furnish menu.
 		
 Exit build mode when you are ready."
-    PHYSICALDISTRIBUTION5 "In the staff window you can either hire couriers to come once every day and pick up copies or call a courier to pick up as many copies as possible immediately. Calling couriers is a lot more expensive and should be reserved for emergencies.
+    PHYSICALDISTRIBUTION5   "In the staff window you can either hire couriers to come once every day and pick up copies or call a courier to pick up as many copies as possible immediately. Calling couriers is a lot more expensive and should be reserved for emergencies.
 		
 When you are ready, open the distribution window to see how you can run your own digital distribution store."
-    PROJECTMANAGEMENT1    "Start by opening the project management window."
-    PROJECTMANAGEMENT2    "Project management let's you delegate a release cycle to a leader in your company, so they control everything from creating a design to supporting the product once it's released.
+    PROJECTMANAGEMENT1      "Start by opening the project management window."
+    PROJECTMANAGEMENT2      "Project management let's you delegate a release cycle to a leader in your company, so they control everything from creating a design to supporting the product once it's released.
 
 A project management team needs a leader, with at least 1 star in the {H:Automation} specialization. The leader will dedicate all their time to keeping the project running, so it might be worthwhile to keep the leader in their own team.
 
 Start by selecting a leader to run the project and name your team."
-    PROJECTMANAGEMENT3    "Now look through each of the options to control how the projects should be handled. You can hover over each label to get a detailed description.
+    PROJECTMANAGEMENT3      "Now look through each of the options to control how the projects should be handled. You can hover over each label to get a detailed description.
 
 Note that some options might be greyed out, because your leader doesn't have the necessary Automation level. You can see what each Automation level unlocks by hovering over the stars in the specialization overview for leaders in the Employee window, Team window or Employee detail window.
 		
 Click OK when you're ready."
-    PROJECTMANAGEMENT4    "Now open the project management detail window for your new project."
-    PROJECTMANAGEMENT5    "You'll notice a new panel that tells you how many actions points the leader has accumulated.
+    PROJECTMANAGEMENT4      "Now open the project management detail window for your new project."
+    PROJECTMANAGEMENT5      "You'll notice a new panel that tells you how many actions points the leader has accumulated.
 		
 Action points are used to start new projects, complete marketing tasks and move through the development stages. Some actions cost more points than others. Your leader will continually work to accumulate these points.
 
 Leader skill determines how many points can be gathered and role specific skills control how quickly they will be gathered for each category."
-    PROJECTMANAGEMENT6    "The bottom panel tells you which projects are currently queued and lets you cancel or take them over.
+    PROJECTMANAGEMENT6      "The bottom panel tells you which projects are currently queued and lets you cancel or take them over.
 
 Before the project can begin you have to either pick a product you've released to use as a prototype for future projects or assign a project directly from the design document window.
 
 Go to the {H:Design document window}."
-    PROJECTMANAGEMENT7    "When you are done making your design, click the {H:Project management} button, instead of the {H:Develop} button, to assign your new design to the project queue."
-    RESEARCH1             "Start the tutorial by pressing the {H:Research} button to bring up the research window."
-    RESEARCH2             "The research window allows you to research a specialization to unlock a new tech level.
+    PROJECTMANAGEMENT7      "When you are done making your design, click the {H:Project management} button, instead of the {H:Develop} button, to assign your new design to the project queue."
+    RESEARCH1               "Start the tutorial by pressing the {H:Research} button to bring up the research window."
+    RESEARCH2               "The research window allows you to research a specialization to unlock a new tech level.
 
 The newest tech level will always be inaccessible until you've researched it, but they will unlock as you or your competitors research the next tech level.
 
 Try clicking one of the specializations in the left panel."
-    RESEARCH3             "To the right you will now see a list of all tech levels currently researched for the chosen specialization and whether they have a patent owner.
+    RESEARCH3               "To the right you will now see a list of all tech levels currently researched for the chosen specialization and whether they have a patent owner.
 
 At the bottom you can see a button to start researching this specialization, which requires designers with a level 3 specialization of the type you want to research. 
 
