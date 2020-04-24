@@ -243,7 +243,7 @@ Make sure you do a client review before you move on to the bug fixing stage, to 
 Навыки сбалансированы, и максимальное количество навыков, которое вы можете назначить для начала, зависит от сложности, которую вы выберете."
     CUSTOMIZATION8        "Вы можете изменить свои очки специализации, нажав на выделенные звезды здесь.
 			
-Уровни специализации определяют, какие задачи может выполнять ваш сотрудник. Не забудьте проверить другие роли с помощью раскрывающегося списка.
+Уровни специализации определяют, какие задачи может выполнять ваш сотрудник. Не забудьте проверить другие должности с помощью раскрывающегося списка.
 
 Нажав на кнопку {H:Случайно}, будут выбраны случайные уровни специализации для оставшихся у вас очков.
 
@@ -372,60 +372,60 @@ Make sure you do a client review before you move on to the bug fixing stage, to 
 Если сделка не состоится, ваши отношения с другой компанией временно ухудшатся. Вам нужно подождать несколько месяцев после неудачной сделки, если вам нужна хорошая сделка.
 
 Ваша доля на цифровом рынке и стоимость другой компании будут влиять на то, сколько они готовы дать вам."
-    EDUCATION1              "You need an employee who is ready for education before you can begin the education tutorial.
+    EDUCATION1              "Вам нужен сотрудник, который готов к обучению, прежде чем двинуться дальше.
 
-Employees will be eligible for education when they gain enough experience working on different tasks."
-    EDUCATION2              "Begin the tutorial by opening the {H:Employee window}, selecting the employees you want to educate and press the {H:Educate} button or by selecting one or more of your employees, press {KeyBind:ContextMenu} anywhere on the screen to bring up the context menu, and then pick {H:Educate employee}.
+Сотрудников можно будет обучить, когда они поднаберутся опыту, работая над различными проектами."
+    EDUCATION2              "Откройте окно {H:Сотрудники}, выберите сотрудника которого хотите обучить и нажмите кнопку {H:Обучение} или выбрав несколько сотрудников нажмите {KeyBind:ContextMenu} в любом месте экрана, чтобы вызвать контекстное меню, и выберите {H:Обучить}.
 			
-You can see which employees are ready for education in the Employee window by looking for green icons in the {H:role} column."
-    EDUCATION3              "In the education window you can pick a role and a specialization you want to educate your employees in. After they finish their class, employees will gain one star in the specialization you picked.
+Вы можете увидеть, какие сотрудники готовы к обучению в окне сотрудник, посмотрев зеленые значки в столбце {H:Должность}."
+    EDUCATION3              "В окне обучения вы можете выбрать должность и специализацию, в которой вы хотите обучить своих сотрудников. После окончания обучения сотрудники получат одну звезду в выбранной вами специализации.
 
-Based on the employees and specialization you have picked, you can see how much time and money it will require for your employees to finish their classes."
-    EDUCATION4              "At the top you can see which of your chosen employees are applicable for the education you have picked.
+Исходя из выбранных вами сотрудников и специализации, вы можете увидеть, сколько времени и денег потребуется вашим сотрудникам, чтобы закончить обучение."
+    EDUCATION4              "Вверху вы можете увидеть, кто из выбранных вами сотрудников подходит для выбранного вами образования.
 
-When you click {H:Start education} all applicable employees will start their classes. If there are any employees left, you can then decide what they will be educated in. You can queue up classes for an employee by starting education for the employee several times."
-    EDUCATION5              "You can also click directly on the highlighted stars if you want to quickly pick classes for the selected employee.
+Когда вы нажмете {H:Начать обучение}, все соответствующие сотрудники начнут свое обучение. Если остались какие-либо сотрудники, вы можете решить, чему они будут обучаться. Вы можете поставить в очередь занятия для сотрудника, начав обучение для сотрудника несколько раз."
+    EDUCATION5              "Вы также можете нажать непосредственно на выделенные звезды, если хотите быстро выбрать классы для выбранного сотрудника.
 
-Note that if you click a star that is more than 1 level above what the employee currently has, they will be sent for multiple classes at once."
-    EMPLOYEES1              "Begin by opening the employee window."
-    EMPLOYEES2              "This is a list of all your employees, which details their status.
+Обратите внимание, что если вы нажмете звезду, которая на 1 уровень выше, чем у работника, он будет отправлен сразу в несколько классов."
+    EMPLOYEES1              "Начните с открытия окна {H:Сотрудники}"
+    EMPLOYEES2              "Это список всех ваших сотрудников, в котором подробно описан их статус.
 
-You can check any of the options in the top bar to get more details on all your employees."
-    EMPLOYEES3              "When you select an employee in the list, they will be selected in the game and you can get details on their specializations at the bottom of the window.
+Вы можете проверить любой из параметров в верхней панели, чтобы получить более подробную информацию о всех ваших сотрудниках."
+    EMPLOYEES3              "Когда вы выберете сотрудника из списка, он будет выбран в игре, и вы сможете получить более подробную информацию о нем.
 
-Try selecting an employee now."
-    EMPLOYEES4              "You can select several employees by holding down shift or ctrl while clicking on their names in the employee window.
+Попробуйте выбрать сотрудника прямо сейчас."
+    EMPLOYEES4              "Вы можете выбрать нескольких сотрудников, удерживая нажатой клавишу shift или ctrl, нажимая на их имена.
 
-Now, press {KeyBind:ContextMenu} anywhere to bring up the context menu for the selected employee. Click the {H:Switch team} button to inspect possible team assignments."
-    EMPLOYEES5              "When you are done, click {H:OK} and then press {KeyBind:ContextMenu} again and click the {H:Change employee role} button instead, which resembles a wrench."
-    EMPLOYEES6              "Clicking on a role in the role window will assign the employee exclusively to that role immediately, whereas ticking the checkmarks will allow you to pick several roles for your employee. The second row of checkmarks next to each role is the {H:Secondary} option, in which employees will only work in that role if they have no work in their primary roles.
+Теперь нажмите {KeyBind:ContextMenu} в любом месте, чтобы вызвать контекстное меню для выбранного сотрудника. Нажмите {H:Изменить команду} чтобы проверить возможные командные назначения."
+    EMPLOYEES5              "Когда вы закончите, нажмите {H:OK}, а затем снова нажмите {KeyBind:ContextMenu} и вместо этого нажмите кнопку {H:Изменить должность}, которая напоминает гаечный ключ."
+    EMPLOYEES6              "Щелчок по должности сразу же назначит сотрудника исключительно на эту должность, а щелчок по флажкам позволит вам выбрать несколько должностей для вашего сотрудника. Второй ряд галочек рядом с каждой должностью - это параметр {H:Вторичный}, в котором сотрудники будут работать только в этой должности, если у них нет работы в своих основных должностях.
 
-You can also toggle the {H:Any role} checkmark to check or uncheck all roles at once or click {H:Auto role} to assign the employee to the roles that the employee is most proficient at.
+Вы также можете установить флажок {H:Любая должность}, чтобы включить или отключить все должности одновременно, или нажать {H:Авто. выбор должности}, чтобы назначить сотрудника тем ролям, в которых он наиболее опытен.
 
-Note that {H:Leader} can't be chosen unless the employee is assigned to a team and leaders won't work in full capacity in other roles.
+Обратите внимание, что {H:Руководитель} не может быть выбран, если сотрудник не назначен в команду и руководители не будут работать в полном объеме в других должностях.
 
-Close the {H:Select role} window and click {H:Continue} to advance the tutorial."
-    EMPLOYEES7              "With your employee selected, press {KeyBind:ContextMenu} once again to bring up the context menu and select {H:Employee details}, which resembles a single person."
-    EMPLOYEES8              "Here you can see the stats of your employee.
+Закройте окно {H:Выбрать должность} и нажмите {H:Продолжить}."
+    EMPLOYEES7              "Выбрав своего сотрудника, нажмите {KeyBind:ContextMenu} еще раз, чтобы вызвать контекстное меню, и выберите {H:Детали}, который напоминает одного человека."
+    EMPLOYEES8              "Здесь вы можете увидеть статистику вашего сотрудника.
 
-In top left corner you can see your employee's personality traits, and below that, your employee's specialization progress in each role. When an employee has filled the progress meter, they will be eligible for education in that role to gain a new star. Clicking a role will also allow you to assign the employee to that role."
-    EMPLOYEES9              "In bottom left part of the window you can see your employee's specializations, which shows how educated your employee is in different subjects.
+В верхнем левом углу вы можете видеть характер вашего сотрудника, а под ним - специализацию вашего сотрудника в каждой должности. Когда сотрудник заполнит индикатор прогресса, он получит право на образование в этой должности, чтобы получить новую звезду. Нажав на должность, вы также сможете назначить сотрудника на эту должность."
+    EMPLOYEES9              "В нижней левой части окна вы можете увидеть специализацию вашего сотрудника, которая показывает, насколько он образован в различных областях.
 
-Specializations control which kind of tasks your employee can complete. The {H:base skill} is your employee's experience in that role, which controls the speed and quality of their work in various situations."
-    EMPLOYEES10             "In top right corner of the window you can see your employee's traits. These traits are controlled by your employee's two personality traits.
+Специализации определяют, какие задачи может выполнить ваш сотрудник. {H:Начальный навык} - это опыт вашего сотрудника в этой должности, который контролирует скорость и качество его работы в различных ситуациях."
+    EMPLOYEES10             "В правом верхнем углу окна вы можете видеть характер вашего сотрудника. Характер контролируются двумя чертами характера вашего сотрудника.
 
-You can hover over each of the three traits to see how they affect the employee."
-    EMPLOYEES11             "In the center right part of the window, you can see the latest thoughts of your employee, this will tell you how happy they are with their place of work, and how effective they are at their job as a consequence.
+Вы можете навести курсор на каждый из трех признаков, чтобы увидеть, как они влияют на сотрудника."
+    EMPLOYEES11             "В центральной правой части окна вы можете увидеть последние мысли вашего сотрудника, это расскажет вам, насколько он доволен своим местом работы.
 
-You should inspect this often to see how well an employee is doing and whether you can do anything to improve their satisfaction."
-    EMPLOYEES12             "Finally, in the bottom right part of the window, you can see what is currently affecting your employee's effectiveness when working.
+Вы должны часто это проверять, чтобы увидеть, насколько хорошо работает сотрудник, и можете ли вы сделать что-нибудь, чтобы улучшить его производительность."
+    EMPLOYEES12             "Наконец, в нижней правой части окна вы можете увидеть, что в настоящее время влияет на эффективность работы вашего сотрудника.
 	
-You can use this to see what is wrong if your employees suddenly start working slowly or not at all."
-    EMPLOYEES13             "In the beginning of the game you will need to make some quick cash.
+Вы можете использовать это, чтобы увидеть, что не так, если ваши сотрудники вдруг начинают работать медленно или не работают вообще."
+    EMPLOYEES13             "В начале игры вам нужно будет быстро заработать немного денег.
 
-Bring up the Contract window to get some work."
+Откройте окно {H:Контракт}, чтобы получить работу."
     HIRING1               "Начните с открытия окна найма сотрудников"
-    HIRING2               "Прежде чем вы сможете нанять кого-либо, вам нужно провести поиск сотрудников. Начните с выбора роли, которой должен обладать ваш новый сотрудник."
+    HIRING2               "Прежде чем вы сможете нанять кого-либо, вам нужно провести поиск сотрудников. Начните с выбора должности, которой должен обладать ваш новый сотрудник."
     HIRING3               "Вы также должны выбрать специализацию."
     HIRING4               "Затем вам нужно решить, сколько денег вы хотите давать своему потенциальному сотруднику в месяц. Очень важно убедиться, что у вас достаточно денег, чтобы платить им или вы очень быстро обанкротитесь.
 
@@ -565,17 +565,17 @@ Before the project can begin you have to either pick a product you've released t
 
 Go to the {H:Design document window}."
     PROJECTMANAGEMENT7      "When you are done making your design, click the {H:Project management} button, instead of the {H:Develop} button, to assign your new design to the project queue."
-    RESEARCH1               "Start the tutorial by pressing the {H:Research} button to bring up the research window."
-    RESEARCH2               "The research window allows you to research a specialization to unlock a new tech level.
+    RESEARCH1               "Откройте окно {H:Исследование}"
+    RESEARCH2               "Окно исследования позволяет вам исследовать специализацию, чтобы открыть новый технический уровень.
 
-The newest tech level will always be inaccessible until you've researched it, but they will unlock as you or your competitors research the next tech level.
+Новейший технический уровень всегда будет недоступен, пока вы не изучите его, но они будут разблокированы, когда вы или ваши конкуренты исследуете его.
 
-Try clicking one of the specializations in the left panel."
-    RESEARCH3               "To the right you will now see a list of all tech levels currently researched for the chosen specialization and whether they have a patent owner.
+Попробуйте щелкнуть одну из специализаций на левой панели."
+    RESEARCH3               "Справа вы увидите список всех технологических уровней, которые в настоящее время исследуются для выбранной специализации, и есть ли у них патентный владелец.
 
-At the bottom you can see a button to start researching this specialization, which requires designers with a level 3 specialization of the type you want to research. 
+В нижней части вы можете увидеть кнопку, чтобы начать исследование этой специализации, которая требует проектировщиков с навыком уровня 3 того типа, который вы хотите исследовать.
 
-Researching new tech before anyone else will allow you to apply for a patent using {H:Service} employees with the level 3 {H:Law} specialization. If you own the patent to a tech level, all companies using it will have to pay a royalty fee off their sales."
+Исследование новых технологий раньше других позволит вам подать заявку на патент, используя сотрудников {H:Поддержка} с уровнем навыка 3 {H:Юрист}. Если вы владеете патентом на техническй уровень, все компании, использующие его, должны будут платить вам отчисления от своих продаж."
     SAVINGSACCOUNT1       "Начните с открытия окна страховки"
     SAVINGSACCOUNT2       "Вы можете вносить и снимать деньги с помощью этого слайдера.
 
