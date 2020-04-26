@@ -82,7 +82,7 @@
     HideLamps "Вкл/Выкл отображение ламп"
     HideLampsDesc "Включить или выключить отображение потолочных ламп."
     RoomLabels "Метки комнаты"
-    RoomLabelsDesc "Отображает ограничения, а также команду назначенную для комнаты."
+    RoomLabelsDesc "Отображает ограничения, а так же команду назначенную для комнаты."
     WireModeDesc "Используйте это, чтобы соединить ваши серверы."
     Dataoverlay "Информация о помещении"
     BuildMode "Режим строительства"
@@ -2097,7 +2097,7 @@ NetProfit "Прибыль"
         {
         Name   "Employee"
         Plural "Employees"
-        Value  "{0} [Сотрудник|Сотрудник(-а/-ов)]"
+        Value  "{0} [Сотрудник|Сотрудники(-а/-ов)]"
         }
     ContractEarly "{0} рано"
     ContractLate "{0} поздно"
@@ -2559,8 +2559,9 @@ NetProfit "Прибыль"
 	EducationNoBudget "Превышен месячный бюджет"
 	EducationNoElligable "Нет готовых сотрудников по выбранным специальностям"
     
-# Additional localization (that's not included to the Software.ytd)
+# Additional localization (that's not included)
 # FIXME: remove this if dev adds support these phrases
+    # Software.ytd
     Item { Name "Simplicity"; Value "Простота" }
     Item { Name "Drawing"; Value "Рисование" }
     Item { Name "Retouching"; Value "Редактирование" }
@@ -2577,3 +2578,7 @@ NetProfit "Прибыль"
     Item { Name "Passiveprotection"; Value "Пассивная защита" }
     Item { Name "Activeprotection"; Value "Активная защита" }
     Item { Name "Monitoring"; Value "Мониторинг" }
+    # UI.ytd
+    Item { Name "Stocks"; Value "Акции" }
+    Item { Name "Gate"; Value "Ворота" }
+    Item { Name "Stairs"; Value "Лестницы" }
