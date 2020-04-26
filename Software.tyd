@@ -1,4 +1,4 @@
-SoftwareCategoryDefault [ "Default"; "" ]
+SoftwareCategoryDefault [ "По-умолчанию"; "" ]
 
 Software
     {
@@ -251,7 +251,7 @@ Software
         Feature { Delayandreverb "Задержка и реверберация" }
         Feature { EQandcompression "Эквалайзер и сжатие" }
         Feature { Ampsimulation "Имитация усилителя" }
-        Feature { Wavepitchandstretch "Wave pitch and stretch" }
+        Feature { Wavepitchandstretch "Тон и растяжение волн" }
         Feature
             {
             Autotune [ "Автотюн"; "Делает звук чисто интонированным, для тех кто не умеет петь." ]

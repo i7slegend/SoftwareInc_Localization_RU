@@ -328,7 +328,7 @@
     Easy "Легко"
     Medium "Средне"
     Hard "Трудно"
-    Gameplay "Игра"
+    Gameplay "Геймплей"
     Graphics "Графика"
     Audio "Звук"
     Keys "Клавиши"
@@ -1298,7 +1298,7 @@ NetProfit "Прибыль"
     NoFeedbackError "Пожалуйста, введите минимум 50 символов в вашем письме"
     CrashMessage "Игра обнаружила вылет в последней игровой сессии. Вы хотите сообщить об этом разработчику?"
     ExceptionMessage "Игра обнаружила ошибку. Вы хотите сообщить об этом разработчику?"
-    MailPlaceholder "(Выборочно) Для дальнейшего общения по поводу вышей ошибки"
+    MailPlaceholder "(Выборочно) Для дальнейшего общения по поводу ошибки"
     ReportMessagePlaceholder "Введите ваше сообщение для разработчика здесь (желательно на английском)"
     TryLaterConfirm "Ваш отчет об ошибке сохранен и будет отправлен, когда Вы перезапустите игру."
     ReportDelayError "Вы можете отправлять только один отчет каждые 5 минут."
@@ -1507,7 +1507,7 @@ NetProfit "Прибыль"
     Physicalcopies "Физические копии"
     Gaming "Игровой"
     Productivity "Производительность"
-    Security "Охрана"
+    Security "Безопасность"
     Computing "Вычисления"
     Allsection "Все разделы"
     ServerLoad "Нагрузка"
@@ -2558,3 +2558,22 @@ NetProfit "Прибыль"
 	EducationEmployeesSent "Ожидание сотрудников, находящихся в классе"
 	EducationNoBudget "Превышен месячный бюджет"
 	EducationNoElligable "Нет готовых сотрудников по выбранным специальностям"
+    
+# Additional localization (that's not included to the Software.ytd)
+# FIXME: remove this if dev adds support these phrases
+    Item { Name "Simplicity"; Value "Простота" }
+    Item { Name "Drawing"; Value "Рисование" }
+    Item { Name "Retouching"; Value "Редактирование" }
+    Item { Name "Modeling"; Value "Моделирование" }
+    Item { Name "Rendering"; Value "Рендеринг" }
+    Item { Name "Animation"; Value "Анимация" }
+    Item { Name "Composing"; Value "Компоузинг" }
+    Item { Name "Mixing"; Value "Сведение" }
+    Item { Name "Recording"; Value "Запись" }
+    Item { Name "Story"; Value "История" }
+    Item { Name "Wordprocessing"; Value "Работа с текстом" }
+    Item { Name "Spreadsheets"; Value "Электронные таблицы" }
+    Item { Name "Presentation"; Value "Презентации" }
+    Item { Name "Passiveprotection"; Value "Пассивная защита" }
+    Item { Name "Activeprotection"; Value "Активная защита" }
+    Item { Name "Monitoring"; Value "Мониторинг" }
