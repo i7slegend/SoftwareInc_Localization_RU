@@ -2214,9 +2214,9 @@ NetProfit "Прибыль"
     RemoveFavorite "Удалить из избранного"
     AddFavorite "Добавить в избранное"
 #Alpha 11.1
-	Item { Name "Patent"; Plural "Патенты"; Value "{0} [Патент|Патента(-ов)]" }
-	Item { Name "Stock"; Plural "Акции"; Value "{0} [Акция|Акции]" }
-	Item { Name "Framework"; Plural "Фреймворки"; Value "{0} [Фреймворк|Фреймворка(-ов)]" }
+	Item { Name "Patent"; Plural "Patents"; Value "{0} [Патент|Патенты(-а/-ов)]" }
+	Item { Name "Stock"; Plural "Stocks"; Value "{0} [Акция|Акции]" }
+	Item { Name "Framework"; Plural "Frameworks"; Value "{0} [Фреймворк|Фреймворки(-а/-ов)]" }
 	Repair "Починить"
     LevelPre "Уровень {0} ({1})"
     Totalcost "Общая стоимость"
@@ -2492,7 +2492,7 @@ NetProfit "Прибыль"
 	LoadCreateRoomMesh "Ремонтируем полы, штукатурим и красим"
 	LoadDestroyScene "Уничтожаем сцену"
 #Alpha 11.5.1
-	Item { Name "Share"; Plural "Shares"; Value "{0} [Доля|Акций]" }
+	Item { Name "Share"; Plural "Shares"; Value "{0} [Доля|Доли(-ей)]" }
 	Item { Name "Minute"; Plural "Minutes"; Value "{0} [Минут|Минуты]" }
 	Item { Name "Personality"; Plural "Personalities"; Value "{0} [Характер|Характеры]" }
 	Item { Name "SoftwareType"; Plural "SoftwareTypes"; Value "{0} [Тип ПО|Типы ПО]" }
@@ -2579,6 +2579,5 @@ NetProfit "Прибыль"
     Item { Name "Activeprotection"; Value "Активная защита" }
     Item { Name "Monitoring"; Value "Мониторинг" }
     # UI.ytd
-    Item { Name "Stocks"; Value "Акции" }
     Item { Name "Gate"; Value "Ворота" }
     Item { Name "Stairs"; Value "Лестницы" }
