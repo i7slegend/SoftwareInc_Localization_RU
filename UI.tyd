@@ -21,7 +21,7 @@
 #Customization
     CompanyNameHere "Введите имя компании"
     Founder "Основатель"
-    FounderName "Anony Mouse"
+    FounderName "Ванька Ерохин"
     Colors "Цвета"
     Gender "Пол"
     Male "Мужской"
@@ -69,7 +69,7 @@
     MainServerDesc "Управляйте вашими серверами и переназначайте процессы."
     MainEmployees "Управление сотрудниками"
     MainEmployeesDesc "Ознакомьтесь со списком ваших сотрудников."
-    MainHire "Найм сотрудников"
+    MainHire "Наём сотрудников"
     MainHireDesc "Ищите, проводите собеседования и нанимайте новых сотрудников."
     MainTeam "Управление командами"
     MainTeamDesc "Управляйте вашими командами, устанавливайте рабочие часы и распределяйте ответственность."
@@ -77,8 +77,8 @@
     MainStaffDesc "Нанимайте или вызывайте обслугу, чтобы убедиться, что ваше оборудование находится в превосходном состояние."
     MainStock "Акции"
     MainStockDesc "Покупайте и продавайте акции, ведь есть возможность сколотить на этом состояние."
-    MainLoan "Займ"
-    MainLoanDesc "Если Вы считаете, что погрязли в проблемах, может самое время взять займ?"
+    MainLoan "Заём"
+    MainLoanDesc "Если Вы считаете, что погрязли в проблемах, может самое время взять заём?"
     MainRelease "Продукты"
     MainReleaseDesc "Обзор выпущенных программ за все времена."
     MainCompany "Компании"
@@ -204,7 +204,6 @@
     Wagenegotiations "Переговоры о заработной плате"
     Stocks "Акции"
     Insurance "Страховка"
-    Savegames "Сохраненные игры"
     Staff "Обслуга"
     Marketing "Маркетинг"
     Servers "Серверы"
@@ -309,7 +308,7 @@
     Interest "Процентная ставка"
     Period "Период"
     Currentloans "Текущие займы"
-    Takeloan "Взять займ"
+    Takeloan "Взять заём"
 #InsuranceWindow
     Deposit "Положить"
     Withdraw "Снять"
@@ -380,12 +379,12 @@
     Fullscreen "Полноэкранный режим"
     Antialiastype "Тип сглаживания"
     AntialiasHint "Смягчать неровные края"
-    VSync "VSync"
+    VSync "Верт. синхронизация"
     VSyncHint "Избавляет от рывков при скачках FPS, снижает температуру видеокарты и ее энергопотребление"
     1frame "1 кадр"
     2frames "2 кадра"
     Shadows "Тени"
-    ShadowsHint "Тени относительно внутриигрового солнца"
+    ShadowsHint "Тени относительно положения солнца"
     Moreshadows "Больше теней"
     MoreShadowsHint "Каждый свет в игре отбрасывает тени (Требуется хорошая видеокарта)"
     Texturequality "Качество текстур"
@@ -424,24 +423,26 @@
     ToggleBuildMode "Режим строительства"
 #AI
     Idle "Бездействует"
-    Lookingforcomputer "Ищет компьютер"
-    Goinghome "Идет домой"
+    GoToDesk "Ищет компьютер"
+    GoHome "Идет домой"
     Working "Работает"
-    Goingtogetfood "Идет за едой"
-    Goingtogetcoffee "Идет за кофе"
-    Makingcoffee "Делает кофе"
-    Gettingfood "Готовит еду"
-    Goingtomeeting "Идет на встречу"
-    Inmeeting "На встрече"
-    Goingtotoilet "Идет в туалет"
+    GoToFood "Идет кушать"
+    GoToCoffee "Идет за кофе"
+    MakeCoffee "Делает кофе"
+    GetFood "Готовит еду"
+    GoToMeeting "Идет на встречу"
+    HaveMeeting "На встрече"
+    GoToToilet "Идет в туалет"
     Pooping "В туалете"
-    Lookingforbrokenstuff "Ищет что починить"
-    Goingtorepairsomething "Идет чинить"
+    FindRepair "Ищет что починить"
+    GoToRepair "Идет чинить"
     Repairing "Чинит"
-    Lookingfordirtyroom "Ищет грязную комнату"
-    Goingtocleanroom "Идет убирать комнату"
-    Cleaning "Уборщик"
-    Lookingfordirt "Ищет грязь"
+    FindCleanRoom "Ищет грязную комнату"
+    GotoCleanRoom "Идет убирать комнату"
+    Cleaning "Убирается"
+    LookForDirt "Ищет грязь"
+	PrepareFood "Готовит еду"
+	ServeFood "Разносит еду"
     Inclass "На занятиях"
     Dismissed "Уволился"
     Atwork "На работе"
@@ -450,7 +451,7 @@
     Vacation "Отпуск"
     Sick "Болеет"
     Dead "Умер"
-    Hospitalized "В госпитале"
+    Hospitalized "В больнице"
 #Thoughts
     NoLikeWorker "Меня раздражает {0}"
     LikeWorker "{0} отличный коллега!"
@@ -538,7 +539,7 @@
     OrSeperator " или "
     EmployeeQuitRaise "Поднять зарплату на {0}"
     DemoWarning "Эта функция недоступна в демоверсии"
-    DemoFloorWarning "Вы можете построить только два первых этажа в демо-версии"
+    DemoFloorWarning "Вы можете построить только два первых этажа в демоверсии"
     OverwriteConfirmMsg "Перезаписать?"
     OverwriteConfirmTitle "Подтверждение"
     DismissTitle "Уволить"
@@ -591,7 +592,7 @@
     BankruptStock "У Вас {0} на счете.
 Вы хотите продать Ваши акции за {1}, чтобы избежать банкротства?"
     BankruptLoan "У Вас {0} на счете.
-Вы хотите взять займ в размере {1}, чтобы избежать банкротства?"
+Вы хотите взять заём в размере {1}, чтобы избежать банкротства?"
     BankruptLoseMsg "Вы банкрот, на вашем счете {0} "
 #FurnitureInfo
     Currentlyusedby "Используется"
@@ -836,7 +837,7 @@ NetProfit "Прибыль"
     ElectronicHeatWarning "У Вас есть перегревшаяся электроника"
     ActionCoolOverride "Переключить вентиляцию в режим максимального охлаждения, это поможет спасти технику от перегрева"
     CoolMode "Максимальное охлаждение"
-    Slavery "Slavery"
+    Slavery "Рабство"
 #Alpha 4.2
     NeedNotChosen "Выбрать"
 #Alpha 4.3
@@ -848,7 +849,7 @@ NetProfit "Прибыль"
     FebruaryAbbr "Фев."
     MarchAbbr "Мар."
     AprilAbbr "Апр."
-    MayAbbr "Май."
+    MayAbbr "Май"
     JuneAbbr "Июн."
     JulyAbbr "Июл."
     AugustAbbr "Авг."
@@ -864,7 +865,7 @@ NetProfit "Прибыль"
     SheetHR "Сотрудники"
     SheetSalaries "Зарплата"
     SheetStaff "Обслуга"
-    SheetHire "Найм"
+    SheetHire "Наём"
     SheetEducation "Обучение"
     SheetMaintenance "Содержание"
     SheetConstruction "Строительство"
@@ -878,7 +879,7 @@ NetProfit "Прибыль"
     SheetDistribution "Дистрибуция"
     SheetMisc "Разное"
     SheetStocks "Акции"
-    SheetLoan "Займ"
+    SheetLoan "Заём"
     SheetInterest "Интерес"
     SheetNA "Н/Д"
     DaysPerMonth "Дней в месяце"
@@ -895,7 +896,7 @@ NetProfit "Прибыль"
     RetireNotify "{0} ушел в отставку"
     SickNotify "{0} сообщил(-а), что он(-а) болен"
     DiedNotify "{0} умер(-ла)!"
-    HospitalizedNotify "{0} попал(-а) в аварию и подал в отставку!"
+    HospitalizedNotify "С сотрудником {0} произошёл несчастный случай и он уволился!"
     Skipday "Пропустить день"
     CompanyLoadMsg "Активные компании"
     TeamCompat0 "Н/Д"
@@ -927,7 +928,7 @@ NetProfit "Прибыль"
     BoughtOutProducts "Вы получили права на {0} продукт"
     LowCompatWarning "Команда {0} имеет низкую совместимость"
     ContractIncomeMsg "Получено {0} за принятие контракта"
-    VSyncWarning "Выключение VSync может повредить видеокарту из-за перегрева.
+    VSyncWarning "Выключение вертикальной синхронизации может повредить видеокарту из-за перегрева.
 Вы уверены, что хотите продолжить?"
     RoomLowEnv "В этой комнате скучно смотреть на"
     FurnitureBlockedStaff "У Вас есть мебель, до которой не могут добраться ваши сотрудники"
@@ -1037,8 +1038,8 @@ OS охват: {1}%
     GuestCompany "{0} от имени {1}"
 #Alpha 5.2
     SupportWorkSlowWarning "Ваши сотрудники не справляются с поддержкой {0}"
-    SupportWorkCancelWarning "Отмена продукта с ошибками разозлит ваших пользователей!
-Вы уверены, что хотите продолжить?"
+	SupportWorkCancelWarning "Отмена поддержки продукта разозлит ваших пользователей, если все ошибки не будут исправлены.
+Вы уверены, что хотите продолжить?"	Вы уверены, что хотите продолжить?"
 #Alpha 5.3
     AcceptAllWages "Принять все и закрыть"
     AcceptAllWagesWarning "Вы уверены, что хотите принять все требования?"
@@ -1127,7 +1128,7 @@ OS охват: {1}%
 #Alpha 6.11
     Overallskill "Навыки"
     Skillinterview "Открыть навыки"
-    Specializationinterview "Открыть пециализации"
+    Specializationinterview "Открыть специализации"
     Personalityinterview "Открыть характер"
     SSAA "SSAA"
     SSAAHint "Полноэкранное сглаживание улучшает качество картинки при полноэкранном режиме"
@@ -1346,7 +1347,7 @@ OS охват: {1}%
     Findowner "Найти владельца"
     Software "Программное обеспечение"
     Port "Портирование"
-    Porting "Портирование"
+    Porting "Портирование..."
     PortTo "Портирование на {0}"
     UnsupportedProcWarning "У Вас есть неподдерживаемые процессы для серверов!"
     Maxquality "Макс. качество"
@@ -1435,7 +1436,7 @@ OS охват: {1}%
     Designwork "Стадия разработки ПО"
     Alphawork "Альфа-стадия ПО"
     Supportwork "Стадия поддержки ПО"
-    Hiring "Найм сотрудников"
+    Hiring "Наём сотрудников"
     TutorialPost "{0} - обучение"
     TutorialPrompt "Хотели бы Вы пройти курс обучения \"{0}\"?"
     Tutorial "Обучение"
@@ -1475,7 +1476,7 @@ OS охват: {1}%
     Torso "Торс"
     Legs "Ноги"
     Accessories "Аксессуары"
-    BusinessCasual "Cлучайный бизнес"
+    BusinessCasual "Случайный бизнес"
     FullBeard "Борода"
     Stubble "Щетина"
     MensBlouse "Мужская блузка"
@@ -1554,7 +1555,7 @@ OS охват: {1}%
     NoFeedbackError "Пожалуйста, введите минимум 50 символов в вашем письме"
     CrashMessage "Игра обнаружила вылет в последней игровой сессии. Вы хотите сообщить об этом разработчику?"
     ExceptionMessage "Игра обнаружила ошибку. Вы хотите сообщить об этом разработчику?"
-    MailPlaceholder "НЕОБЯЗАТЕЛЬНО! Для дальнейшего общения по поводу вышей ошибки"
+    MailPlaceholder "(Выборочно) Для дальнейшего общения по поводу ошибки"
     ReportMessagePlaceholder "Введите ваше сообщение для разработчика здесь (желательно на английском)"
     TryLaterConfirm "Ваш отчет об ошибке сохранен и будет отправлен, когда Вы перезапустите игру."
     ReportDelayError "Вы можете отправлять только один отчет каждые 5 минут."
@@ -1617,7 +1618,7 @@ OS охват: {1}%
     TeamCompatibility "Совместимость команды"
     OtherTeams "Другие команды"
     OwnOffice "Собственный офис"
-    linesofcode "{0} строк(а) кода"
+    linesofcode "{0} строк(-а/-и) кода"
     MBArt "{0} контента"
     Refunds "Возвраты"
     Bias "Тенденция"
@@ -1786,7 +1787,7 @@ OS охват: {1}%
     ProjectManagementRelease "Команда {0} только что выпустила {1} {2}: {3}"
     Gaming "Игровой"
     Productivity "Производительность"
-    Security "Охрана"
+    Security "Безопасность"
     Computing "Вычисления"
     Allsection "Все разделы"
     ServerLoad "Нагрузка"
@@ -1858,7 +1859,7 @@ OS охват: {1}%
     Plotexpansion "Расширение участка"
     Digitalstore "Цифровой магазин"
     Copyorder "Заказать копию"
-    Storecut "Store cut"
+    Storecut "Доля магазина"
     Hosting "Хостинг"
     IntellectualPropertyAbbr "Интеллектуальная собственность"
     Oncall "По вызову"
@@ -1912,7 +1913,7 @@ OS охват: {1}%
     ActionAutoAssign "Автоматическое назначение компьютеров в выбранных комнатах"
     SubsidiaryCloseWarning "Вы собираетесь закрыть свою дочернюю компанию {0}.
 Вы уверены что хотите продолжить?"
-    SubsidiaryPrompt "Вы хотите выкупить {0} и ее продукты или сделать ее дочерним предприятием вашей компании? "
+    SubsidiaryPrompt "Вы хотите выкупить {0} и ее продукты или сделать ее дочерним предприятием вашей компании?"
     BoughtOutProductsStocksInfo "Вы получили {0} акций(ю) и прав(о/а) на {1} продукт(ов) при поглощении {2}"
     ReturnDate "Вернется через {0}"
     AutoSecondDevTeam "Этап разработки обычно короче, чем этап реализации, но Вы можете использовать вторичную группу разработчиков для параллельного запуска проектов"
@@ -1958,7 +1959,7 @@ OS охват: {1}%
 Вы уверены что хотите продолжить?"
     ActionRoomPairDirect "Привязать выделенные комнаты к работникам"
     Undo "Отмена"
-    UndoWarningTip "Эта функция в данный момент является экспериментальной! Игра будет автосохраняться на случай, если что-то произойдет"
+    UndoWarningTip "Эта функция в данный момент является экспериментальной! Игра будет автоматически сохраняться на случай, если что-то произойдет"
     DestroyWall "Убрать стену"
     Teardownwallsbetweenrooms "Уничтожайте стены между комнатами"
     MissingChairHint "Предмет ({0}) нуждается в стуле, чтобы его можно было использовать"
@@ -1977,7 +1978,7 @@ OS охват: {1}%
     Short-tempered "Несдержанный"
     Stubborn "Упертый"
     Introvert "Интроверт"
-    Extrovert "Экстроверт"
+    Extrovert "Экстраверт"
 #Alpha 9.10
     ExtremeGraphicImpact "Экстремально"
     GfxTestWarning "Запуск этого теста вернет Вас в главное меню.
@@ -1994,7 +1995,7 @@ OS охват: {1}%
     GFXHigh "Высокие"
     GFXUltra "Ультра"
     Limitreached "Лимит достигнут"
-    Incomplete "Незавершен"
+    Incomplete "Не завершен"
     Fulfilled "Выполнен"
     ContractFinish3 "Контракт {0} с прибылью в {1}, и {2} качеством"
     OptionFileError "Игре не удалось получить доступ к файлу settings.txt, Ваши настройки не будут сохранены или загружены.
@@ -2098,7 +2099,7 @@ OS охват: {1}%
     Digitalstorecut "Охват электронного магазина"
     Benefits "Льготы"
     UndoBuyPlot "Продажа участка"
-    UndoSellPlot "Покупка учатска"
+    UndoSellPlot "Покупка участка"
     UndoRentRoom "Отмена {0} аренд(-ы)"
     UndoUnrentRoom "Аренда {0} помещений"
     Startingfunds "Начальные средства"
@@ -2119,7 +2120,7 @@ OS охват: {1}%
     Construction "Строительство"
     Repairs "Ремонт"
     Sales "Продажи"
-    Loan "Займ"
+    Loan "Заём"
     Notapplicable "Н/Д"
     LowSalaryQuit "Моя зарплата слишком низкая"
     NoToiletQuit "Ванные комнаты ужасны"
@@ -2251,7 +2252,7 @@ OS охват: {1}%
     RoomCoolingWarning "Уже лето, выключите батареи!
 Добавьте еще больше вентиляции и не забудьте про использование утечки тепла через окна"
     TargetFPS "Ограничитель FPS"
-    TargetFPSTip "Сколько кадров должно быть отрисовано в секунду вашей видеокартой, при условии, что VSync отключен. Введите -1 для отключения ограничения."
+    TargetFPSTip "Сколько кадров должно быть отрисовано в секунду вашей видеокартой, при условии, что вертикальная синхронизация отключена. Введите -1 для отключения ограничения."
     Changebenefits "Изменить льготы"
     ResetBenefits "Установить для всех сотрудников"
     OverrideBenefits "Переназначить льготы"
@@ -2285,7 +2286,7 @@ OS охват: {1}%
         {
         Name   "Month"
         Plural "Months"
-        Value  "{0} [Месяц|Месяцев]"
+        Value  "{0} [Месяц|Месяцев(-а)]"
         }
     Item
         {
@@ -2309,13 +2310,13 @@ OS охват: {1}%
         {
         Name   "Product"
         Plural "Products"
-        Value  "{0} [Продукт|Продукты(-ов)]"
+        Value  "{0} [Продукт|Продукта(-ов)]"
         }
     Item
         {
         Name   "Team"
         Plural "Teams"
-        Value  "{0} [Команда|Команды]"
+        Value  "{0} [Команда|Команд(-ы)]"
         }
     Item
         {
@@ -2361,19 +2362,19 @@ OS охват: {1}%
         {
         Name   "Roof"
         Plural "Roofs"
-        Value  "{0} [Крыша|Крыши]"
+        Value  "{0} [Крыша|Крыш(-и)]"
         }
     Item
         {
         Name   "Room"
         Plural "Rooms"
-        Value  "{0} [Комната|Комнаты]"
+        Value  "{0} [Комната|Комнат(-ы)]"
         }
     Item
         {
         Name   "Group"
         Plural "Groups"
-        Value  "{0} [Группа|Группы]"
+        Value  "{0} [Группа|Групп(-ы)]"
         }
     ActionRoofColor "Цвет крыши"
     ActionRoofmaterial "Материал крыши"
@@ -2432,7 +2433,7 @@ OS охват: {1}%
         {
         Name   "Employee"
         Plural "Employees"
-        Value  "{0} [Сотрудник|Сотрудники]"
+        Value  "{0} [Сотрудник|Сотрудники(-а/-ов)]"
         }
     ContractEarly "{0} рано"
     ContractLate "{0} поздно"
@@ -2468,19 +2469,19 @@ OS охват: {1}%
         {
         Name   "Piece"
         Plural "Pieces"
-        Value  "{0} [Элемента|Элементов]"
+        Value  "{0} [Элемент|Элемент(-а/-ов)]"
         }
     Item
         {
         Name   "Lease"
         Plural "Leases"
-        Value  "{0} [Аренда|Аренда]"
+        Value  "{0} [Аренда|Аренд(-ы)]"
         }
     Item
         {
         Name   "Path"
         Plural "Paths"
-        Value  "{0} [Дорожка|Дорожек]"
+        Value  "{0} [Дорожка|Дорожки(-ек)]"
         }
     Patchnotes "Журнал изменений"
 	Requirements "Требования"
@@ -2497,7 +2498,7 @@ OS охват: {1}%
     SoftwareAlphaClass "Задачи разработки"
     SoftwarePortClass "Задачи портирования"
     SupportWorkClass "Задачи поддержки"
-    Grassamount "Количество травы"
+    Grassamount "Кол-во травы"
     GrassHint "Количество травинок на квадратный метр (размер сетки по умолчанию)"
     AutoGfxResultExact "Уровень качества {0} был выбран на основе результатов теста производительности"
     AutoGfxResultBetween "Уровень качества между {0} и {1} был выбран на основе результатов теста производительности"
@@ -2550,19 +2551,19 @@ OS охват: {1}%
     RemoveFavorite "Удалить из избранного"
     AddFavorite "Добавить в избранное"
 #Alpha 11.1
-	Item { Name "Patent"; Plural "Патенты"; Value "{0} [Патент|Патенты]" }
-	Item { Name "Stock"; Plural "Акции"; Value "{0} [Акция|Акции]" }
-	Item { Name "Framework"; Plural "Фреймворки"; Value "{0} [Фреймворк|Фреймворки]" }
+	Item { Name "Patent"; Plural "Patents"; Value "{0} [Патент|Патенты(-а/-ов)]" }
+	Item { Name "Stock"; Plural "Stocks"; Value "{0} [Акция|Акции]" }
+	Item { Name "Framework"; Plural "Frameworks"; Value "{0} [Фреймворк|Фреймворки(-а/-ов)]" }
 	Repair "Починить"
     LevelPre "Уровень {0} ({1})"
     Totalcost "Общая стоимость"
     EducationAmountTip "Максимальное количество сотрудников, которые могут проходить курсы одновременно. Установите -1 для отключения ограничения"
-    Item { Name "Techlevel"; Plural "Techlevels"; Value "{0} [Технический уровень|Технические уровни]" }
+    Item { Name "Techlevel"; Plural "Techlevels"; Value "{0} [Техн. уровень|Техн. уровня(-ей)]" }
     TechLimitedBy "Ограничено {0}"
     NewestTech "Уже использует новейшие технологии"
     Previouspage "Предыдущая страница"
 	UnlockTechLimit "Для этой функции требуется технический уровень не ниже {0}"
-    Nextpage "Следущая страница"
+    Nextpage "Следующая страница"
     BasicInformation "Основная информация"
     MarketTargeting "Целевой рынок"
     Summary "Сводка"
@@ -2583,7 +2584,7 @@ OS охват: {1}%
     NotCompatibleFeat "Не совместим с выбранными функциями"
     Indevelopment "В разработке"
     Licenses "Лицензии"
-    Missingresearch "Отсутсвуют исследования"
+    Missingresearch "Отсутствуют исследования"
     Supportedby "Поддерживается"
     HRBudgetTip "Ежемесячный бюджет на образование и расходы по найму"
     NoCompetencyWork "{2} не работает над {0} до завершения {1}, что будет препятствовать выполнению проекта"
@@ -2606,7 +2607,7 @@ OS охват: {1}%
 	PublisherNoIntereset "Никто не заинтересован в этой издательской сделке"
 	OSExclusivity "Эксклюзивность операционной системы"
 	ScheduleControl "Контроль графика выпуска"
-	Lawsuit "Cудебный процесс" # или Иск
+	Lawsuit "Судебный процесс" # или Иск
 	SkipTimeHint "Нажмите здесь или нажмите {KeyBind:SkipDay}, когда вы будете готовы к своему первому дню"
 	Legalwork "Юридическая работа"
 	Service "Поддержка"
@@ -2695,7 +2696,7 @@ OS охват: {1}%
 	PrototypeSoftware "Прототип ПО"
 	PrototypeSoftwareTip "Новые проекты будут основаны на этом программном обеспечении (обратите внимание, что вы также можете добавлять новые проекты из окна Разработка)"
 	IterationWorkTip "Каждая итерация положительно влияет на потенциальное качество и скорость появления ошибок"
-	HireSecurity "Охрана"
+	HireSecurity "Безопасность"
 	SecurityStaffTip "Сотрудники безопасности будут охранять входы в здания и отпугивать потенциальных грабителей"
 	DesignDocPageTip "Вы не посмотрели ни на одну из других страниц проектной документации.
 Вы уверены что хотите продолжить?"
@@ -2710,7 +2711,8 @@ OS охват: {1}%
 			{
 			HR ["Обработка жалоб и зарплат"; "Управление образованием"; "Управление наймом"]
 			Automation ["Управление проектом"; "Сиквелы, итерации и фреймворки"; "Обработка задач после выпуска"]
-			Socialization ["Повышение совместимости команды"; "Общение с сотрудниками"; "Проведение встречь"]
+			Socialization ["Повышение совместимости команды"; "Общение с сотрудниками"; "Проведение встреч"]
+            Multitasking ["Улучшение эффективности поддержки и маркетинга"; "Улучшение эффективности задач по разработке"; "Улучшение эффективности любой задачи"]
 			}
 		Service
 			{
@@ -2770,7 +2772,7 @@ OS охват: {1}%
 	SpeedBoost "Скорость разработки"
 	TextureQuality "Качество текстуры"
 	TextureQualityHint "Низкое качество текстур делает текстуры более размытыми, но занимает меньше памяти видеокарты."
-	FurnitureShading "Продвинутый шэйдинг мебели"
+	FurnitureShading "Продвинутое затенение мебели"
 	FurnitureShadingHint "Включает отображение рельефа и отражения на мебели"
 	Police "Полиция"
 	FindTableToEatError "Сотрудник не может найти место, где можно сесть и поесть"
@@ -2833,7 +2835,7 @@ OS охват: {1}%
 	LoadCreateRoomMesh "Ремонтируем полы, штукатурим и красим"
 	LoadDestroyScene "Уничтожаем сцену"
 #Alpha 11.5.1
-	Item { Name "Share"; Plural "Shares"; Value "{0} [Доля|Акций]" }
+	Item { Name "Share"; Plural "Shares"; Value "{0} [Доля|Доли(-ей)]" }
 	Item { Name "Minute"; Plural "Minutes"; Value "{0} [Минут|Минуты]" }
 	Item { Name "Personality"; Plural "Personalities"; Value "{0} [Характер|Характеры]" }
 	Item { Name "SoftwareType"; Plural "SoftwareTypes"; Value "{0} [Тип ПО|Типы ПО]" }
@@ -2867,12 +2869,12 @@ OS охват: {1}%
 	LoadFurniture "Размещаем в офисах объекты {0}"
 	LoadActor "Создаем {0} актеров"
 	IncreaseShare "{0} начал продавать больше акций"
-	Glitchy "Glitchy"
+	Glitchy "Глючит"
 	PointsLeft "Осталось очков"
 	FireWarningFurniture "Какая-то часть оборудования сломалась и начался пожар!"
 	Author "Автор"
-	DataMods "Data mods"
-	CodeMods "Code mods"
+	DataMods "Типы данных"
+	CodeMods "Скрипты"
 	Localizations "Локализации"
 	BuildingMods "Постройки"
 	MaterialMods "Материалы"
@@ -2884,17 +2886,20 @@ OS охват: {1}%
 	ModDownloadSteam "Скачано из Мастерской Steam"
 	Simplicity "Простота"
 	Drawing "Рисование"
-	Retouching "Ретуширование"
-	Composing "Компоновка"
+	Retouching "Редактирование"
+	Composing "Компоузинг"
 	Recording "Звукозапись"
 	Mixing "Сведение"
 	Story "Сюжет"
-	Presentation "Презентация"
-	Wordprocessing "Обработка текста"
-	Spreadsheets "Электронная таблица"
+	Presentation "Презентации"
+	Wordprocessing "Работа с текстом"
+	Spreadsheets "Электронные таблицы"
 	Monitoring "Мониторинг"
 	Passiveprotection "Пассивная защита"
 	Activeprotection "Активная защита"
+	Modeling "Моделирование"
+	Rendering "Рендеринг"
+	Animation "Анимация"
 #Alpha 11.6.1
 	Item { Name "NewReward"; Plural "NewRewards"; Value "{0} [Новая награда|Новые награды]" }
 	TaskComplete "Законченный"
