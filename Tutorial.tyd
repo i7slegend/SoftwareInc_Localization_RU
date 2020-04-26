@@ -201,7 +201,7 @@ Tutorial
 Обучение будет продолжено, как только вы перейдете к следующему этапу разработки."
     CONTRACTS6            "Когда индикатор выполнения достигает синей линии, вы выполнили требования по контракту. Однако вам все равно нужно соответствовать их требованиям к качеству, если вы хотите повысить свою деловую репутацию и получить более качественные контракты.
 
-Make sure you do a client review before you move on to the bug fixing stage, to make sure you meet their quality requirements.
+Прежде чем перейти к этапу исправления ошибок, вы должны сделать обзор, чтобы убедиться, что вы соответствуете их требованиям к качеству.
 
 Обучение продолжится как только вы нажмете кнопку {H:Обзор}."
     CONTRACTS10           "Когда вы будете готовы, давайте перейдем к этапу исправления ошибок.
@@ -273,13 +273,13 @@ Make sure you do a client review before you move on to the bug fixing stage, to 
     CUSTOMIZATION17       "Вы можете использовать эти кнопки, чтобы выбрать, хотите ли вы арендовать или купить пустой участок.
 
 Строительство стоит очень дорого, поэтому рекомендуется начинать с аренды. Вы можете переехать со своей компанией в процессе игры."
-    DESIGNDOCUMENT11        "You can use or create a framework when developing software. Frameworks speed up development, but lock down the maximum tech levels of your features.
+    DESIGNDOCUMENT11        "Вы можете использовать или создавать фреймворк при разработке программного обеспечения. Фреймворки ускоряют разработку, но блокируют максимальный технический уровень ваших функций.
 
-Using a framework made by another company will require you pay a license fee from your profits.
+Использование фреймворка, созданного другой компанией, потребует от вас выплаты прибыли за лицензирование.
 
-If you decide to create a new framework, it will extend development slightly, but the new framework can be licensed out to other companies to make some extra money on the side."
-    DESIGNDOCUMENT12        "Let's check out the {H:Dependencies} page."
-    DESIGNDOCUMENT18        "Click the develop button when you're ready to begin development."
+Если вы решите создать новый фреймворк, он немного расширит разработку, но новый фреймворк может быть лицензирован другими компаниями, чтобы заработать дополнительные деньги на стороне."
+    DESIGNDOCUMENT12        "Давайте проверим страницу {H:Необходимое ПО}."
+    DESIGNDOCUMENT18        "Нажмите {H:Далее}, когда вы будете готовы начать разработку."
     DESIGNWORK1           "Вам нужно начать новый проект, прежде чем продолжить обучение"
     DESIGNWORK3           "Пока вы работаете над своим проектным документом, вам нужно начать рассказывать миру о вашем новом проекте. Начните с объявления даты выпуска, нажав кнопку {H:Реклама}.
 
@@ -440,24 +440,24 @@ If you decide to create a new framework, it will extend development slightly, bu
 
 Когда будете готовы, нажмите {H:Продолжить}."
     LEASING13               "Когда вы будете готовы, откройте окно сотрудников, чтобы начать управлять своими сотрудниками."
-    MARKETING1              "Marketing is crucial in Software Inc. Your products simply won't sell without marketing.
+    MARKETING1              "Маркетинг имеет решающее значение в Software Inc. Ваши продукты просто не будут продаваться без маркетинга.
 
-You can start a marketing campaign by opening your release window, selecting a product and clicking the market button"
-    MARKETING2              "This is the marketing window.
+Вы можете начать маркетинговую кампанию, открыв окно {H:Ваши продукты}, выбрав продукт и нажав кнопку {H:Реклама}"
+    MARKETING2              "Это и есть маркетинговое окно.
 		
-Marketing your product is a potentially endless money sink. The more money you use, the bigger advantage you get over competing products. Bigger software products will need more marketing to compete.
+Маркетинг вашего продукта-это потенциально бесконечный поток денег. Чем больше денег вы используете, тем больше вы получаете преимущество перед конкурирующими продуктами. Большим программным продуктам потребуется больше маркетинга, чтобы конкурировать.
 
-Note that spending more money on marketing than your competitors will prompt them to do the same."
-    MARKETING3              "You can set a budget, which puts an upper limit to the spending for this marketing task. \"0\" means there is no limit.
+Обратите внимание, что тратя больше денег на маркетинг, чем ваши конкуренты, побудит их сделать то же самое."
+    MARKETING3              "Вы можете установить бюджет, который устанавливает верхний предел расходов на эту маркетинговую задачу. \"0\" означает, что ограничений нет.
 		
-Increasing your marketing budget will not increase marketing efforts. You will need a lot of talented marketers to effectively use your budget.
+Увеличение вашего маркетингового бюджета не приведет к увеличению маркетинговых усилий. Вам понадобится много талантливых маркетологов, чтобы эффективно использовать свой бюджет.
 
-If you are happy with the team selection, press {H:OK} to start your campaign."
-    MARKETING4              "Your new marketing plan will appear as a work item on the right.
+Если вы довольны выбором команды, нажмите {H:OK}, чтобы начать кампанию."
+    MARKETING4              "Ваш новый маркетинговый план появится в виде рабочего элемента справа.
 
-After the first day, the work item will start filling up to indicate how much money you are spending compared to yesterday's marketing efforts.
+После первого дня рабочий элемент начнет заполняться, чтобы указать, сколько денег вы тратите по сравнению со вчерашними маркетинговыми усилиями.
 
-Press {H:Finish} to end the tutorial."
+Нажмите {H:Конец}, чтобы завершить обучение."
     OFFICEDANGERS1          "{H:Осторожно!} Ваши офисы подвержены кражам и пожарам! А когда мяч катится, его уже не остановить.
 
 Если вы хотите быть в безопасности, вы должны принять профилактические меры и уменьшить последствия.
@@ -480,48 +480,48 @@ Press {H:Finish} to end the tutorial."
 Очень важно отметить, что {H:Лифты не работают во время пожаров}. Вы всегда должны быть уверены, что в вашем здании есть лестница, чтобы ваши сотрудники могли сбежать.
 
 В случае, если вам не повезло, вы должны убедиться, что в ваших комнатах есть {H:Разбрызгиватель}, чтобы быстрее потушить огонь, и {H:Пожарная сигнализация} в комнатах с горючей мебелью, чтобы предупредить всех сотрудников в здании, когда вспыхнет пожар."
-    PHYSICALDISTRIBUTION1   "You can order physical copies of your products by going to your releases, selecting a product and clicking the Order copies button."
-    PHYSICALDISTRIBUTION2   "Software is sold both physically in stores and digitally online. As time progresses people will move towards digital purchases and the two platforms even out at some point.
+    PHYSICALDISTRIBUTION1   "Вы можете заказать физические копии ваших продуктов, перейдя к вашим продуктам, выбрав продукт и нажав кнопку заказать копии."
+    PHYSICALDISTRIBUTION2   "Программное обеспечение продается как физически в магазинах, так и в цифровом виде в интернете. С течением времени люди будут переходить к цифровым покупкам, и в какой-то момент эти две платформы выровняются.
 		
-This is the copy order window. It will show you some details that affect how many copies you should order.
+Это окно заказа копий. Он покажет вам некоторые детали, которые влияют на то, сколько копий вы должны заказать.
 
-You'll have to balance the amount you order with how many you expect to sell to avoid a loss. You can always order a few copies now and order more next month.
+Вы должны будете сбалансировать сумму заказа с тем, сколько вы планируете продать, чтобы избежать убытка. Вы всегда можете заказать несколько экземпляров сейчас и заказать больше в следующем месяце.
 
-Close the window to continue"
-    PHYSICALDISTRIBUTION3   "You can also print copies of your product yourself, which is a lot cheaper long term, but requires a lot more work from you. You'll need printers, storage and couriers to transport your copies to stores.
+Закройте окно, чтобы продолжить"
+    PHYSICALDISTRIBUTION3   "Вы также можете распечатать копии своего продукта самостоятельно, что намного дешевле в долгосрочной перспективе, но требует от вас гораздо больше работы. Вам понадобятся принтеры, хранилище и курьеры для доставки ваших копий в магазины.
 		
-If you have all the necessary logistics, you can click the \"Start printing\" button in the \"Your releases\" window with a product selected to start a printing task.
+Если у вас есть вся необходимая логистика, вы можете нажать \"Начать печать\" в окне \"Ваши продукты\", с выбранным продуктом, чтобы начать задачу печати.
 
-Go to build mode to see how you build printers and pallets."
-    PHYSICALDISTRIBUTION4   "You'll find printers and pallets in the furnish menu.
+Перейдите в режим строительства, чтобы увидеть, как где найти принтеры и поддоны."
+    PHYSICALDISTRIBUTION4   "В меню мебели вы найдете принтеры и поддоны.
 		
-Exit build mode when you are ready."
-    PHYSICALDISTRIBUTION5   "In the staff window you can either hire couriers to come once every day and pick up copies or call a courier to pick up as many copies as possible immediately. Calling couriers is a lot more expensive and should be reserved for emergencies.
+Выйдите из режима строительства, когда будете готовы."
+    PHYSICALDISTRIBUTION5   "В окне \"Обслуга\" вы можете либо нанять курьеров, которые приходят один раз в день и забирают копии, либо вызвать курьера, чтобы забрать как можно больше копий немедленно. Вызов курьеров стоит намного дороже и должен быть зарезервирован для чрезвычайных ситуаций.
 		
-When you are ready, open the distribution window to see how you can run your own digital distribution store."
-    PROJECTMANAGEMENT1      "Start by opening the project management window."
-    PROJECTMANAGEMENT2      "Project management let's you delegate a release cycle to a leader in your company, so they control everything from creating a design to supporting the product once it's released.
+Когда вы будете готовы, откройте окно дистрибутива, чтобы посмотреть, как вы можете запустить свой собственный магазин цифровой дистрибуции."
+    PROJECTMANAGEMENT1      "Начните с открытия окна управление проектами."
+    PROJECTMANAGEMENT2      "Управление проектами позволяет вам делегировать цикл выпуска руководителю вашей компании, чтобы он контролировал все - от создания дизайна до поддержки продукта после его выпуска.
 
-A project management team needs a leader, with at least 1 star in the {H:Automation} specialization. The leader will dedicate all their time to keeping the project running, so it might be worthwhile to keep the leader in their own team.
+Команде управления проектом нужен руководитель, имеющий как минимум 1 звезду по специальности {H:Автоматизация}. Руководитель посвятит все свое время поддержанию проекта, поэтому, возможно, стоит сохранить руководителя в своей собственной команде.
 
-Start by selecting a leader to run the project and name your team."
-    PROJECTMANAGEMENT3      "Now look through each of the options to control how the projects should be handled. You can hover over each label to get a detailed description.
+Начните с выбора руководителя для запуска проекта и назовите свою команду."
+    PROJECTMANAGEMENT3      "Теперь просмотрите каждый из вариантов, чтобы контролировать, как следует обрабатывать проекты. Вы можете навести курсор на каждую надпись, чтобы получить подробное описание.
 
-Note that some options might be greyed out, because your leader doesn't have the necessary Automation level. You can see what each Automation level unlocks by hovering over the stars in the specialization overview for leaders in the Employee window, Team window or Employee detail window.
+Обратите внимание, что некоторые параметры могут быть недоступны, потому что у вашего лидера нет необходимого уровня автоматизации. Вы можете увидеть, что открывает каждый уровень автоматизации, наведя курсор на звезды в обзоре специализации для руководителей в окне \"Сотрудник\", окне \"Команды\" или окне \"Сведений о сотруднике\".
 		
-Click OK when you're ready."
-    PROJECTMANAGEMENT4      "Now open the project management detail window for your new project."
-    PROJECTMANAGEMENT5      "You'll notice a new panel that tells you how many actions points the leader has accumulated.
+Нажмите OK, когда будете готовы."
+    PROJECTMANAGEMENT4      "Теперь откройте окно сведений об управление проектом для вашего нового проекта."
+    PROJECTMANAGEMENT5      "Вы увидите новую панель, которая сообщает вам, сколько очков действий накопил руководитель.
 		
-Action points are used to start new projects, complete marketing tasks and move through the development stages. Some actions cost more points than others. Your leader will continually work to accumulate these points.
+Очки действия используются для запуска новых проектов, выполнения маркетинговых задач и прохождения этапов разработки. Некоторые действия стоят больше очков, чем другие. Ваш руководитель будет постоянно работать, чтобы накапливать эти очки.
 
-Leader skill determines how many points can be gathered and role specific skills control how quickly they will be gathered for each category."
-    PROJECTMANAGEMENT6      "The bottom panel tells you which projects are currently queued and lets you cancel or take them over.
+Навык руководителя определяет, сколько очков действий может быть набрано, а должностные навыки контролируют, как быстро они будут набраны для каждой категории."
+    PROJECTMANAGEMENT6      "Нижняя панель показывает, какие проекты находятся в очереди, и позволяет вам отменить или принять их.
 
-Before the project can begin you have to either pick a product you've released to use as a prototype for future projects or assign a project directly from the design document window.
+Перед началом проекта вам нужно выбрать выпущенный вами продукт для использования в качестве прототипа для будущих проектов или назначить проект непосредственно из окна проектной документации.
 
-Go to the {H:Design document window}."
-    PROJECTMANAGEMENT7      "When you are done making your design, click the {H:Project management} button, instead of the {H:Develop} button, to assign your new design to the project queue."
+Перейдите в окно {H:Разработка ПО}."
+    PROJECTMANAGEMENT7      "Когда вы закончите создавать свой дизайн, нажмите {H:Управление проектом}, вместо кнопки {H:Далее}, чтобы поставить ваш новый проект в очередь."
     RESEARCH1               "Откройте окно {H:Исследование}"
     RESEARCH2               "Окно исследования позволяет вам исследовать специализацию, чтобы открыть новый технический уровень.
 
@@ -533,16 +533,6 @@ Go to the {H:Design document window}."
 В нижней части вы можете увидеть кнопку, чтобы начать исследование этой специализации, которая требует проектировщиков с навыком уровня 3 того типа, который вы хотите исследовать.
 
 Исследование новых технологий раньше других позволит вам подать заявку на патент, используя сотрудников {H:Поддержка} с уровнем навыка 3 {H:Юрист}. Если вы владеете патентом на техническй уровень, все компании, использующие его, должны будут платить вам отчисления от своих продаж."
-    SAVINGSACCOUNT1       "Начните с открытия окна страховки"
-    SAVINGSACCOUNT2       "Вы можете вносить и снимать деньги с помощью этого слайдера.
-
-Деньги на Вашем страховом счете приносят вам {SavingsInterest} процентов в год, но если вы снимете деньги, все заработанные проценты будут вычтены."
-    SAVINGSACCOUNT3       "Время, которое должно пройти, прежде чем Вы сможете снять деньги, зависит от того, сколько денег Вы внесли в тот же финансовый год. Вы можете увидеть заблокированные депозиты на этой панели.
-
-Когда Вы решите снять деньги, банк начнет с того, что попытается вывести деньги на ваш сберегательный счет, на который не начисляются проценты."
-    SAVINGSACCOUNT4       "Сотрудники уходят на пенсию или могут умереть или заболеть. Когда это произойдет, они могут получить деньги в зависимости от соглашения о пособиях. Вы можете следить сделанными платежами на этой панели.
-		
-Это действительно все, что Вам стоит знать о Вашем сберегательном счеле. Закройте окно, чтобы завершить обучение."
     SERVER1               "Вы можете соединять и разъединять серверы в режиме провода, нажав на сервер, а затем на другой сервер. Вы так же можете выбрать все серверы, которые хотите соединить, используя {KeyBind:MultipleSelect}, {KeyBind:SweepSelect} или перемещая курсор с зажатой клавишей {KeyBind:NormalSelection}, после чего нажмите {KeyBind:ContextMenu} и выберите {H:Соединить серверы}.
 
 Нагрузка на кластер подключенных серверов будет распределена между всеми серверами в кластере. Если один сервер в кластере выходит из строя, весь кластер перестает работать.
@@ -558,7 +548,7 @@ Go to the {H:Design document window}."
 Вы также можете выбрать резервный сервер, который будет обрабатывать процессы кластера серверов, если она выйдет из строя."
     SERVER4               "Если Вы полностью уничтожите кластер серверов, все процессы, делегированные ему, перестанут поддерживаться, что может принести серьезные проблемы.
 		
-Если это случится, Вам следует нажать кнопку {H:Просмотреть неподдерживаемые процессы} и передать данные процессы другим серверам.
+Если это случится, Вам следует нажать кнопку {H:Просмотреть не поддерживаемые процессы} и передать данные процессы другим серверам.
 
 Нажмите {H:Завершить}, чтобы завершить обучение."
     SIMPLEDESIGNDOCUMENT13  "В то время как вы делали свой выбор, игра сделала некоторые выборы от вашего имени в фоновом режиме.
