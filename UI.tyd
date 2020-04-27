@@ -21,11 +21,7 @@
 #Customization
     CompanyNameHere "Введите имя компании"
     Founder "Основатель"
-<<<<<<< HEAD
     FounderName "Анон Им"
-=======
-    FounderName "Ванька Ерохин"
->>>>>>> 73898837711e564cfc7fb9bfe49708337de2b41c
     Colors "Цвета"
     Gender "Пол"
     Male "Мужской"
@@ -403,11 +399,7 @@
     Cleaning "Убирается"
     LookForDirt "Ищет грязь"
 	PrepareFood "Готовит еду"
-<<<<<<< HEAD
     ServeFood "Разносит еду"
-=======
-	ServeFood "Разносит еду"
->>>>>>> 73898837711e564cfc7fb9bfe49708337de2b41c
     Inclass "На занятиях"
     Dismissed "Уволился"
     Atwork "На работе"
@@ -738,11 +730,6 @@ NetProfit "Прибыль"
     ElectronicHeatWarning "У Вас есть перегревшаяся электроника"
     CoolMode "Максимальное охлаждение"
     Slavery "Рабство"
-<<<<<<< HEAD
-=======
-#Alpha 4.2
-    NeedNotChosen "Выбрать"
->>>>>>> 73898837711e564cfc7fb9bfe49708337de2b41c
 #Alpha 4.3
     Re-open "Открыть снова"
     cashflow "- график прибыли"
@@ -763,27 +750,11 @@ NetProfit "Прибыль"
     6months "6 месяцев"
     Lastmonth "Прошлый месяц"
     Thismonth "Этот месяц"
-<<<<<<< HEAD
     SheetHire "Наём"
-=======
-    SheetHR "Сотрудники"
-    SheetSalaries "Зарплата"
-    SheetStaff "Обслуга"
-    SheetHire "Наём"
-    SheetEducation "Обучение"
-    SheetMaintenance "Содержание"
-    SheetConstruction "Строительство"
-    SheetRepairs "Ремонт"
->>>>>>> 73898837711e564cfc7fb9bfe49708337de2b41c
     SheetBills "Счета"
     SheetSoftware "Продукция"
     SheetLicenses "Лицензии"
     SheetMisc "Разное"
-<<<<<<< HEAD
-=======
-    SheetStocks "Акции"
-    SheetLoan "Заём"
->>>>>>> 73898837711e564cfc7fb9bfe49708337de2b41c
     SheetInterest "Интерес"
     DaysPerMonth "Дней в месяце"
     OffMarketHint "Если продукт плохо влияет на вашу репутацию или Вы не можете поддерживать его, то снимите его с рынка."
@@ -891,11 +862,7 @@ NetProfit "Прибыль"
     GuestCompany "{0} от имени {1}"
 #Alpha 5.2
     SupportWorkSlowWarning "Ваши сотрудники не справляются с поддержкой {0}"
-<<<<<<< HEAD
-    SupportWorkCancelWarning "Отмена поддержки продукта разозлит ваших пользователей, если все ошибки не будут исправлены.
-=======
 	SupportWorkCancelWarning "Отмена поддержки продукта разозлит ваших пользователей, если все ошибки не будут исправлены.
->>>>>>> 73898837711e564cfc7fb9bfe49708337de2b41c
 Вы уверены, что хотите продолжить?"
 #Alpha 5.3
     AcceptAllWages "Принять все и закрыть"
@@ -1660,10 +1627,6 @@ NetProfit "Прибыль"
     SubsidiaryCloseWarning "Вы собираетесь закрыть свою дочернюю компанию {0}.
 Вы уверены что хотите продолжить?"
     SubsidiaryPrompt "Вы хотите выкупить {0} и ее продукты или сделать ее дочерним предприятием вашей компании?"
-<<<<<<< HEAD
-=======
-    BoughtOutProductsStocksInfo "Вы получили {0} акций(ю) и прав(о/а) на {1} продукт(ов) при поглощении {2}"
->>>>>>> 73898837711e564cfc7fb9bfe49708337de2b41c
     ReturnDate "Вернется через {0}"
     AutoSecondDevTeam "Этап разработки обычно короче, чем этап реализации, но Вы можете использовать вторичную группу разработчиков для параллельного запуска проектов"
     SubsidiaryDeposit "Укажите, сколько денег Вы хотите внести в бюджет дочерней компании"
@@ -1823,11 +1786,6 @@ NetProfit "Прибыль"
     Benefits "Льготы"
     UndoBuyPlot "Продажа участка"
     UndoSellPlot "Покупка участка"
-<<<<<<< HEAD
-=======
-    UndoRentRoom "Отмена {0} аренд(-ы)"
-    UndoUnrentRoom "Аренда {0} помещений"
->>>>>>> 73898837711e564cfc7fb9bfe49708337de2b41c
     Startingfunds "Начальные средства"
     Educationlevel "Уровень образования"
     Educationamount "Количество обучаемых"
@@ -2585,25 +2543,6 @@ NetProfit "Прибыль"
 	ModLocalSteam "Установлено локально"
 	ModUploadSteam "Загружено в Мастерскую Steam"
 	ModDownloadSteam "Скачано из Мастерской Steam"
-<<<<<<< HEAD
-=======
-	Simplicity "Простота"
-	Drawing "Рисование"
-	Retouching "Редактирование"
-	Composing "Компоузинг"
-	Recording "Звукозапись"
-	Mixing "Сведение"
-	Story "Сюжет"
-	Presentation "Презентации"
-	Wordprocessing "Работа с текстом"
-	Spreadsheets "Электронные таблицы"
-	Monitoring "Мониторинг"
-	Passiveprotection "Пассивная защита"
-	Activeprotection "Активная защита"
-	Modeling "Моделирование"
-	Rendering "Рендеринг"
-	Animation "Анимация"
->>>>>>> 73898837711e564cfc7fb9bfe49708337de2b41c
 #Alpha 11.6.1
 	Item { Name "NewReward"; Plural "NewRewards"; Value "{0} [Новая награда|Новые награды]" }
 	TaskComplete "Законченный"
